@@ -11,7 +11,7 @@ async function fetchLetterboxdData(username, year) {
   console.log(`Fetching Letterboxd diary for user: ${username} for year: ${year}`);
 
   while (hasMorePages) {
-    const url = `https://letterboxd.com/${username}/films/for/${year}/page/${page}/`;
+    const url = `https://letterboxd.com/${username}/films/dairy/for/${year}/page/${page}/`;
     console.log(`URL: ${url}`);
 
     try {
