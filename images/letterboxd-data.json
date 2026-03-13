@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-03-12T02:23:43.407Z",
+  "generatedAt": "2026-03-13T02:14:00.600Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2025,
@@ -14,12 +14,12 @@
     "endDate": "2026-12-31",
     "alignedStart": "2024-12-30",
     "weeks": 105,
-    "maxCount": 7
+    "maxCount": 0
   },
   "stats": {
-    "films": 175,
-    "daysActive": 115,
-    "streak": 5
+    "films": 0,
+    "daysActive": 0,
+    "streak": 0
   },
   "monthLabels": [
     {
@@ -410,17 +410,10 @@
       "date": "2025-01-25",
       "week": 3,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Compartment No. 6",
-          "year": "2021",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/compartment-no-6/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/01/25/"
     },
@@ -428,17 +421,10 @@
       "date": "2025-01-26",
       "week": 3,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Klitschko: More Than a Fight",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/klitschko-more-than-a-fight/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/01/26/"
     },
@@ -611,17 +597,10 @@
       "date": "2025-02-11",
       "week": 6,
       "weekday": 1,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Better Man",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/better-man-2024/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/02/11/"
     },
@@ -673,17 +652,10 @@
       "date": "2025-02-16",
       "week": 6,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "One of Them Days",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/one-of-them-days/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/02/16/"
     },
@@ -724,23 +696,10 @@
       "date": "2025-02-20",
       "week": 7,
       "weekday": 3,
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "The Gorge",
-          "year": "2025",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/the-gorge-2025/"
-        },
-        {
-          "title": "Helmand: Tour of Duty",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/helmand-tour-of-duty/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/02/20/"
     },
@@ -814,17 +773,10 @@
       "date": "2025-02-27",
       "week": 8,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "FRED: The Movie",
-          "year": "2010",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/fred-the-movie/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/02/27/"
     },
@@ -865,23 +817,10 @@
       "date": "2025-03-03",
       "week": 9,
       "weekday": 0,
-      "count": 2,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Flow",
-          "year": "2024",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/laminthurein/film/flow-2024/"
-        },
-        {
-          "title": "Away",
-          "year": "2019",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/away-2019/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/03/"
     },
@@ -911,23 +850,10 @@
       "date": "2025-03-06",
       "week": 9,
       "weekday": 3,
-      "count": 2,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "The Manchurian Candidate",
-          "year": "1962",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-manchurian-candidate/"
-        },
-        {
-          "title": "Pocket Hercules: Naim Suleymanoglu",
-          "year": "2019",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/pocket-hercules-naim-suleymanoglu/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/06/"
     },
@@ -1012,29 +938,10 @@
       "date": "2025-03-14",
       "week": 10,
       "weekday": 4,
-      "count": 3,
-      "ratingAvg": 2.8,
-      "films": [
-        {
-          "title": "Nickel Boys",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/nickel-boys/"
-        },
-        {
-          "title": "Balls Out",
-          "year": "2014",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/balls-out/"
-        },
-        {
-          "title": "Plankton: The Movie",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/plankton-the-movie/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/14/"
     },
@@ -1042,29 +949,10 @@
       "date": "2025-03-15",
       "week": 10,
       "weekday": 5,
-      "count": 3,
-      "ratingAvg": 2.8,
-      "films": [
-        {
-          "title": "The Parenting",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/the-parenting/"
-        },
-        {
-          "title": "The Rules of Attraction",
-          "year": "2002",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/the-rules-of-attraction/"
-        },
-        {
-          "title": "DodgeBall: A True Underdog Story",
-          "year": "2004",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/dodgeball-a-true-underdog-story/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/15/"
     },
@@ -1094,17 +982,10 @@
       "date": "2025-03-18",
       "week": 11,
       "weekday": 1,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Beastie Boys Story",
-          "year": "2020",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/beastie-boys-story/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/18/"
     },
@@ -1277,17 +1158,10 @@
       "date": "2025-04-03",
       "week": 13,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hundreds of Beavers",
-          "year": "2022",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hundreds-of-beavers/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/03/"
     },
@@ -1306,17 +1180,10 @@
       "date": "2025-04-05",
       "week": 13,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "The Life List",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/the-life-list/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/05/"
     },
@@ -1346,29 +1213,10 @@
       "date": "2025-04-08",
       "week": 14,
       "weekday": 1,
-      "count": 3,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Mickey 17",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/mickey-17/"
-        },
-        {
-          "title": "Suze",
-          "year": "2023",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/suze-2023/"
-        },
-        {
-          "title": "Adult Swim Yule Log 2: Branchin' Out",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/adult-swim-yule-log-2-branchin-out/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/08/"
     },
@@ -1409,17 +1257,10 @@
       "date": "2025-04-12",
       "week": 14,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Novocaine",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/novocaine-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/12/"
     },
@@ -1427,17 +1268,10 @@
       "date": "2025-04-13",
       "week": 14,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Thelma",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/thelma-2024/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/13/"
     },
@@ -1445,53 +1279,10 @@
       "date": "2025-04-14",
       "week": 15,
       "weekday": 0,
-      "count": 7,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Lilies Not for Me",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/lilies-not-for-me/"
-        },
-        {
-          "title": "Bonus Track",
-          "year": "2023",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/bonus-track/"
-        },
-        {
-          "title": "Sex",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/sex-2024/"
-        },
-        {
-          "title": "Song Lang",
-          "year": "2018",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/song-lang/2/"
-        },
-        {
-          "title": "High Life",
-          "year": "2018",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/high-life-2018/"
-        },
-        {
-          "title": "Black Mirror: Common People",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/black-mirror-common-people/"
-        },
-        {
-          "title": "Strange Darling",
-          "year": "2023",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/strange-darling/"
-        }
-      ],
-      "level": 4,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/14/"
     },
@@ -1499,17 +1290,10 @@
       "date": "2025-04-15",
       "week": 15,
       "weekday": 1,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "The Cakemaker",
-          "year": "2017",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-cakemaker/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/15/"
     },
@@ -1528,17 +1312,10 @@
       "date": "2025-04-17",
       "week": 15,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Endless Summer Syndrome",
-          "year": "2023",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/endless-summer-syndrome/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/17/"
     },
@@ -1546,17 +1323,10 @@
       "date": "2025-04-18",
       "week": 15,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Alpha Dog",
-          "year": "2006",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/alpha-dog/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/18/"
     },
@@ -1652,17 +1422,10 @@
       "date": "2025-04-27",
       "week": 16,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Martin Eden",
-          "year": "2019",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/martin-eden-2019/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/27/"
     },
@@ -1670,17 +1433,10 @@
       "date": "2025-04-28",
       "week": 17,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Skunk",
-          "year": "2023",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/skunk-2023/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/28/"
     },
@@ -1732,17 +1488,10 @@
       "date": "2025-05-03",
       "week": 17,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "John Carter",
-          "year": "2012",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/john-carter/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/03/"
     },
@@ -1805,17 +1554,10 @@
       "date": "2025-05-09",
       "week": 18,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "The Ballad of Wallis Island",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-ballad-of-wallis-island/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/09/"
     },
@@ -1845,23 +1587,10 @@
       "date": "2025-05-12",
       "week": 19,
       "weekday": 0,
-      "count": 2,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Fight or Flight",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/fight-or-flight-2024/"
-        },
-        {
-          "title": "While You Were Sleeping",
-          "year": "1995",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/while-you-were-sleeping/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/12/"
     },
@@ -1869,23 +1598,10 @@
       "date": "2025-05-13",
       "week": 19,
       "weekday": 1,
-      "count": 2,
-      "ratingAvg": 1,
-      "films": [
-        {
-          "title": "A Minecraft Movie",
-          "year": "2025",
-          "rating": 1.5,
-          "url": "https://letterboxd.com/laminthurein/film/a-minecraft-movie/"
-        },
-        {
-          "title": "Snow White",
-          "year": "2025",
-          "rating": 0.5,
-          "url": "https://letterboxd.com/laminthurein/film/snow-white-2025/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/13/"
     },
@@ -1893,17 +1609,10 @@
       "date": "2025-05-14",
       "week": 19,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Dear Evan Hansen",
-          "year": "2021",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/dear-evan-hansen/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/14/"
     },
@@ -1911,23 +1620,10 @@
       "date": "2025-05-15",
       "week": 19,
       "weekday": 3,
-      "count": 2,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Forever-Forever",
-          "year": "2023",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/forever-forever/"
-        },
-        {
-          "title": "The Ugly Stepsister",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/the-ugly-stepsister/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/15/"
     },
@@ -1957,17 +1653,10 @@
       "date": "2025-05-18",
       "week": 19,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Holy Cow",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/holy-cow-2024/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/18/"
     },
@@ -1975,17 +1664,10 @@
       "date": "2025-05-19",
       "week": 20,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Speedway Junky",
-          "year": "1999",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/speedway-junky/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/19/"
     },
@@ -2015,47 +1697,10 @@
       "date": "2025-05-22",
       "week": 20,
       "weekday": 3,
-      "count": 6,
-      "ratingAvg": 3.2,
-      "films": [
-        {
-          "title": "#MissingCouple",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/missingcouple/"
-        },
-        {
-          "title": "Horror in the High Desert 3: Firewatch",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/horror-in-the-high-desert-3-firewatch/"
-        },
-        {
-          "title": "Horror in the High Desert 2: Minerva",
-          "year": "2023",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/horror-in-the-high-desert-2-minerva/"
-        },
-        {
-          "title": "Deliver Us from Evil",
-          "year": "2006",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/deliver-us-from-evil/"
-        },
-        {
-          "title": "Sinners",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/sinners-2025/"
-        },
-        {
-          "title": "Sharp Corner",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/sharp-corner/"
-        }
-      ],
-      "level": 4,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/22/"
     },
@@ -2063,17 +1708,10 @@
       "date": "2025-05-23",
       "week": 20,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Splendor in the Grass",
-          "year": "1961",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/splendor-in-the-grass/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/23/"
     },
@@ -2081,17 +1719,10 @@
       "date": "2025-05-24",
       "week": 20,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Straight",
-          "year": "2023",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/straight-2023/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/24/"
     },
@@ -2099,17 +1730,10 @@
       "date": "2025-05-25",
       "week": 20,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Riley",
-          "year": "2023",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/riley-2023-1/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/25/"
     },
@@ -2117,41 +1741,10 @@
       "date": "2025-05-26",
       "week": 21,
       "weekday": 0,
-      "count": 5,
-      "ratingAvg": 3.7,
-      "films": [
-        {
-          "title": "Thunderbolts*",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/thunderbolts/"
-        },
-        {
-          "title": "Deaf President Now!",
-          "year": "2025",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/laminthurein/film/deaf-president-now/"
-        },
-        {
-          "title": "Motel Destino",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/motel-destino/"
-        },
-        {
-          "title": "Misericordia",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/misericordia-2024/"
-        },
-        {
-          "title": "Il Sorpasso",
-          "year": "1962",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/il-sorpasso/"
-        }
-      ],
-      "level": 3,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/26/"
     },
@@ -2225,23 +1818,10 @@
       "date": "2025-06-02",
       "week": 22,
       "weekday": 0,
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "On Swift Horses",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/on-swift-horses/"
-        },
-        {
-          "title": "Out",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/out-2024-1/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/02/"
     },
@@ -2260,29 +1840,10 @@
       "date": "2025-06-04",
       "week": 22,
       "weekday": 2,
-      "count": 3,
-      "ratingAvg": 2.8,
-      "films": [
-        {
-          "title": "On Swift Horses",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/on-swift-horses/1/"
-        },
-        {
-          "title": "The Boys Next Door",
-          "year": "1985",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-boys-next-door/"
-        },
-        {
-          "title": "Mountainhead",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/mountainhead/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/04/"
     },
@@ -2301,17 +1862,10 @@
       "date": "2025-06-06",
       "week": 22,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "A Certain Kind of Death",
-          "year": "2003",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/a-certain-kind-of-death/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/06/"
     },
@@ -2341,17 +1895,10 @@
       "date": "2025-06-09",
       "week": 23,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Fireworks",
-          "year": "2023",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/fireworks-2023/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/09/"
     },
@@ -2392,23 +1939,10 @@
       "date": "2025-06-13",
       "week": 23,
       "weekday": 4,
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Titan: The OceanGate Submersible Disaster",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/titan-the-oceangate-submersible-disaster/"
-        },
-        {
-          "title": "Fögi Is a Bastard",
-          "year": "1998",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/fogi-is-a-bastard/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/13/"
     },
@@ -2416,17 +1950,10 @@
       "date": "2025-06-14",
       "week": 23,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Clown in a Cornfield",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/clown-in-a-cornfield/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/14/"
     },
@@ -2478,23 +2005,10 @@
       "date": "2025-06-19",
       "week": 24,
       "weekday": 3,
-      "count": 2,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Trainwreck: The Astroworld Tragedy",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/trainwreck-the-astroworld-tragedy/"
-        },
-        {
-          "title": "Final Destination Bloodlines",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/final-destination-bloodlines/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/19/"
     },
@@ -2502,17 +2016,10 @@
       "date": "2025-06-20",
       "week": 24,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Kiss the Blood Off My Hands",
-          "year": "1948",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/kiss-the-blood-off-my-hands/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/20/"
     },
@@ -2520,23 +2027,10 @@
       "date": "2025-06-21",
       "week": 24,
       "weekday": 5,
-      "count": 2,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Trainwreck: Mayor of Mayhem",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/trainwreck-mayor-of-mayhem/"
-        },
-        {
-          "title": "Ace in the Hole",
-          "year": "1951",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/ace-in-the-hole/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/21/"
     },
@@ -2566,23 +2060,10 @@
       "date": "2025-06-24",
       "week": 25,
       "weekday": 1,
-      "count": 2,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Walking the Streets of Moscow",
-          "year": "1964",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/walking-the-streets-of-moscow/"
-        },
-        {
-          "title": "28 Days Later",
-          "year": "2002",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/laminthurein/film/28-days-later/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/24/"
     },
@@ -2612,17 +2093,10 @@
       "date": "2025-06-27",
       "week": 25,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Friendship",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/friendship-2024/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/27/"
     },
@@ -2663,17 +2137,10 @@
       "date": "2025-07-01",
       "week": 26,
       "weekday": 1,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Sully",
-          "year": "2016",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/sully/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/01/"
     },
@@ -2681,35 +2148,10 @@
       "date": "2025-07-02",
       "week": 26,
       "weekday": 2,
-      "count": 4,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Bring Her Back",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/bring-her-back/"
-        },
-        {
-          "title": "Mascarpone: The Rainbow Cake",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/mascarpone-the-rainbow-cake/"
-        },
-        {
-          "title": "Plainclothes",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/plainclothes/"
-        },
-        {
-          "title": "A Necessary Death",
-          "year": "2008",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/a-necessary-death/"
-        }
-      ],
-      "level": 3,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/02/"
     },
@@ -2783,17 +2225,10 @@
       "date": "2025-07-09",
       "week": 27,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Next to Normal",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/next-to-normal/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/09/"
     },
@@ -2856,17 +2291,10 @@
       "date": "2025-07-15",
       "week": 28,
       "weekday": 1,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Gaza: How to Survive a Warzone",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/gaza-how-to-survive-a-warzone/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/15/"
     },
@@ -2874,23 +2302,10 @@
       "date": "2025-07-16",
       "week": 28,
       "weekday": 2,
-      "count": 2,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Gaza: Doctors Under Attack",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/gaza-doctors-under-attack/"
-        },
-        {
-          "title": "Trainwreck: The Real Project X",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/trainwreck-the-real-project-x/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/16/"
     },
@@ -2898,17 +2313,10 @@
       "date": "2025-07-17",
       "week": 28,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hill",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hill-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/17/"
     },
@@ -2938,17 +2346,10 @@
       "date": "2025-07-20",
       "week": 28,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "M3GAN 2.0",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/m3gan-20/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/20/"
     },
@@ -2978,23 +2379,10 @@
       "date": "2025-07-23",
       "week": 29,
       "weekday": 2,
-      "count": 2,
-      "ratingAvg": 3.8,
-      "films": [
-        {
-          "title": "A Man and a Woman",
-          "year": "1966",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/a-man-and-a-woman/"
-        },
-        {
-          "title": "No Other Land",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/no-other-land/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/23/"
     },
@@ -3068,17 +2456,10 @@
       "date": "2025-07-30",
       "week": 30,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "28 Years Later",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/28-years-later/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/30/"
     },
@@ -3086,29 +2467,10 @@
       "date": "2025-07-31",
       "week": 30,
       "weekday": 3,
-      "count": 3,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Rushmore",
-          "year": "1998",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/rushmore/"
-        },
-        {
-          "title": "Materialists",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/materialists/"
-        },
-        {
-          "title": "Grizzly Man",
-          "year": "2005",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/grizzly-man/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/31/"
     },
@@ -3116,23 +2478,10 @@
       "date": "2025-08-01",
       "week": 30,
       "weekday": 4,
-      "count": 2,
-      "ratingAvg": 4.5,
-      "films": [
-        {
-          "title": "A Separation",
-          "year": "2011",
-          "rating": 5,
-          "url": "https://letterboxd.com/laminthurein/film/a-separation/"
-        },
-        {
-          "title": "The Time That Remains",
-          "year": "2009",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-time-that-remains/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/01/"
     },
@@ -3140,17 +2489,10 @@
       "date": "2025-08-02",
       "week": 30,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "How to Steal a Million",
-          "year": "1966",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/how-to-steal-a-million/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/02/"
     },
@@ -3191,17 +2533,10 @@
       "date": "2025-08-06",
       "week": 31,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Pain and Glory",
-          "year": "2019",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/pain-and-glory/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/06/"
     },
@@ -3209,17 +2544,10 @@
       "date": "2025-08-07",
       "week": 31,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Kung Pow: Enter the Fist",
-          "year": "2002",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/kung-pow-enter-the-fist/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/07/"
     },
@@ -3238,17 +2566,10 @@
       "date": "2025-08-09",
       "week": 31,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "The Life of Chuck",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-life-of-chuck/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/09/"
     },
@@ -3256,17 +2577,10 @@
       "date": "2025-08-10",
       "week": 31,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Late Shift",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/late-shift-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/10/"
     },
@@ -3274,17 +2588,10 @@
       "date": "2025-08-11",
       "week": 32,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Robin Hood: Men in Tights",
-          "year": "1993",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/robin-hood-men-in-tights/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/11/"
     },
@@ -3303,17 +2610,10 @@
       "date": "2025-08-13",
       "week": 32,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Last Swim",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/last-swim/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/13/"
     },
@@ -3332,29 +2632,10 @@
       "date": "2025-08-15",
       "week": 32,
       "weekday": 4,
-      "count": 3,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Mad God",
-          "year": "2021",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/mad-god/"
-        },
-        {
-          "title": "The Grand Budapest Hotel",
-          "year": "2014",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-grand-budapest-hotel/"
-        },
-        {
-          "title": "Beautiful Creatures",
-          "year": "2013",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/beautiful-creatures-2013/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/15/"
     },
@@ -3362,17 +2643,10 @@
       "date": "2025-08-16",
       "week": 32,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Superman",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/superman-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/16/"
     },
@@ -3402,23 +2676,10 @@
       "date": "2025-08-19",
       "week": 33,
       "weekday": 1,
-      "count": 2,
-      "ratingAvg": 2.3,
-      "films": [
-        {
-          "title": "David's Birthday",
-          "year": "2009",
-          "rating": 1,
-          "url": "https://letterboxd.com/laminthurein/film/davids-birthday/"
-        },
-        {
-          "title": "The Hudsucker Proxy",
-          "year": "1994",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-hudsucker-proxy/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/19/"
     },
@@ -3470,23 +2731,10 @@
       "date": "2025-08-24",
       "week": 33,
       "weekday": 6,
-      "count": 2,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Brett Goldstein: The Second Best Night of Your Life",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/brett-goldstein-the-second-best-night-of/"
-        },
-        {
-          "title": "Treading Water",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/treading-water-2024/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/24/"
     },
@@ -3516,17 +2764,10 @@
       "date": "2025-08-27",
       "week": 34,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Reno 911!: Miami",
-          "year": "2007",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/reno-911-miami/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/27/"
     },
@@ -3611,17 +2852,10 @@
       "date": "2025-09-04",
       "week": 35,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Together",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/together-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/04/"
     },
@@ -3629,29 +2863,10 @@
       "date": "2025-09-05",
       "week": 35,
       "weekday": 4,
-      "count": 3,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "The Naked Gun",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-naked-gun/"
-        },
-        {
-          "title": "Nobody 2",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/nobody-2/"
-        },
-        {
-          "title": "Unknown Number: The High School Catfish",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/unknown-number-the-high-school-catfish/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/05/"
     },
@@ -3703,23 +2918,10 @@
       "date": "2025-09-10",
       "week": 36,
       "weekday": 2,
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "The Conjuring: Last Rites",
-          "year": "2025",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/the-conjuring-last-rites/"
-        },
-        {
-          "title": "Weapons",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/weapons-2025/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/10/"
     },
@@ -3793,17 +2995,10 @@
       "date": "2025-09-17",
       "week": 37,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 2,
-      "films": [
-        {
-          "title": "The Truth About Jussie Smollett?",
-          "year": "2025",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/the-truth-about-jussie-smollett/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/17/"
     },
@@ -3877,17 +3072,10 @@
       "date": "2025-09-24",
       "week": 38,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Microcosmos",
-          "year": "1996",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/microcosmos/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/24/"
     },
@@ -4016,17 +3204,10 @@
       "date": "2025-10-06",
       "week": 40,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "V/H/S/Halloween",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/v-h-s-halloween/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/06/"
     },
@@ -4034,23 +3215,10 @@
       "date": "2025-10-07",
       "week": 40,
       "weekday": 1,
-      "count": 2,
-      "ratingAvg": 3.8,
-      "films": [
-        {
-          "title": "Splitsville",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/splitsville/"
-        },
-        {
-          "title": "Twinless",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/twinless/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/07/"
     },
@@ -4168,23 +3336,10 @@
       "date": "2025-10-18",
       "week": 41,
       "weekday": 5,
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "HIM",
-          "year": "2025",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/him-2025/"
-        },
-        {
-          "title": "The Alabama Solution",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-alabama-solution/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/18/"
     },
@@ -4203,17 +3358,10 @@
       "date": "2025-10-20",
       "week": 42,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 2,
-      "films": [
-        {
-          "title": "The Speedway Murders",
-          "year": "2023",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/the-speedway-murders/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/20/"
     },
@@ -4254,17 +3402,10 @@
       "date": "2025-10-24",
       "week": 42,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Long Walk",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-long-walk-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/24/"
     },
@@ -4272,17 +3413,10 @@
       "date": "2025-10-25",
       "week": 42,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Roses",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-roses-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/25/"
     },
@@ -4334,17 +3468,10 @@
       "date": "2025-10-30",
       "week": 43,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Block Pass",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/block-pass/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/30/"
     },
@@ -4440,17 +3567,10 @@
       "date": "2025-11-08",
       "week": 44,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Hi-Five",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/hi-five/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/08/"
     },
@@ -4469,17 +3589,10 @@
       "date": "2025-11-10",
       "week": 45,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Enzo",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/enzo-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/10/"
     },
@@ -4487,17 +3600,10 @@
       "date": "2025-11-11",
       "week": 45,
       "weekday": 1,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Idle Hands",
-          "year": "1999",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/idle-hands/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/11/"
     },
@@ -4505,17 +3611,10 @@
       "date": "2025-11-12",
       "week": 45,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Frankenstein",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/frankenstein-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/12/"
     },
@@ -4556,17 +3655,10 @@
       "date": "2025-11-16",
       "week": 45,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Brady Bunch Movie",
-          "year": "1995",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-brady-bunch-movie/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/16/"
     },
@@ -4596,17 +3688,10 @@
       "date": "2025-11-19",
       "week": 46,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "A Night Like This",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/a-night-like-this-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/19/"
     },
@@ -4636,17 +3721,10 @@
       "date": "2025-11-22",
       "week": 46,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Anatomy of Hell",
-          "year": "2004",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/anatomy-of-hell/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/22/"
     },
@@ -4665,23 +3743,10 @@
       "date": "2025-11-24",
       "week": 47,
       "weekday": 0,
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Thoughts & Prayers",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/thoughts-prayers-2025/"
-        },
-        {
-          "title": "Birdeater",
-          "year": "2023",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/birdeater/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/24/"
     },
@@ -4876,17 +3941,10 @@
       "date": "2025-12-12",
       "week": 49,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Bugonia",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/bugonia/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/12/"
     },
@@ -4960,23 +4018,10 @@
       "date": "2025-12-19",
       "week": 50,
       "weekday": 4,
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Now You See Me: Now You Don't",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/now-you-see-me-now-you-dont-2025/"
-        },
-        {
-          "title": "Sentimental Value",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/sentimental-value-2025/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/19/"
     },
@@ -4984,17 +4029,10 @@
       "date": "2025-12-20",
       "week": 50,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Devil Is Busy",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-devil-is-busy/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/20/"
     },
@@ -5013,17 +4051,10 @@
       "date": "2025-12-22",
       "week": 51,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/jujutsu-kaisen-hidden-inventory-premature/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/22/"
     },
@@ -5053,17 +4084,10 @@
       "date": "2025-12-25",
       "week": 51,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Eternity",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/eternity-2025-1/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/25/"
     },
@@ -5071,17 +4095,10 @@
       "date": "2025-12-26",
       "week": 51,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Varsity Blues",
-          "year": "1999",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/varsity-blues/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/26/"
     },
@@ -5100,23 +4117,10 @@
       "date": "2025-12-28",
       "week": 51,
       "weekday": 6,
-      "count": 2,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Fackham Hall",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/fackham-hall/"
-        },
-        {
-          "title": "Zootopia",
-          "year": "2016",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/zootopia/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/28/"
     },
@@ -5146,17 +4150,10 @@
       "date": "2025-12-31",
       "week": 52,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Tom at the Farm",
-          "year": "2013",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/tom-at-the-farm/1/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/31/"
     },
@@ -5164,17 +4161,10 @@
       "date": "2026-01-01",
       "week": 52,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hot Shots!",
-          "year": "1991",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hot-shots/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/01/"
     },
@@ -5259,17 +4249,10 @@
       "date": "2026-01-09",
       "week": 53,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Beyond the Walls",
-          "year": "2012",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/beyond-the-walls/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/09/"
     },
@@ -5299,17 +4282,10 @@
       "date": "2026-01-12",
       "week": 54,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "People We Meet on Vacation",
-          "year": "2026",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/people-we-meet-on-vacation/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/12/"
     },
@@ -5350,17 +4326,10 @@
       "date": "2026-01-16",
       "week": 54,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hot Shots! Part Deux",
-          "year": "1993",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hot-shots-part-deux/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/16/"
     },
@@ -5368,17 +4337,10 @@
       "date": "2026-01-17",
       "week": 54,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Spanish Movie",
-          "year": "2009",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/spanish-movie/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/17/"
     },
@@ -5386,29 +4348,10 @@
       "date": "2026-01-18",
       "week": 54,
       "weekday": 6,
-      "count": 3,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Blazing Saddles",
-          "year": "1974",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/blazing-saddles/"
-        },
-        {
-          "title": "The New Yorker at 100",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-new-yorker-at-100/"
-        },
-        {
-          "title": "Pillion",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/pillion-2025/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/18/"
     },
@@ -5416,23 +4359,10 @@
       "date": "2026-01-19",
       "week": 55,
       "weekday": 0,
-      "count": 2,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Only Good Things",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/only-good-things-2025/"
-        },
-        {
-          "title": "Hot Rod",
-          "year": "2007",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/hot-rod/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/19/"
     },
@@ -5495,17 +4425,10 @@
       "date": "2026-01-25",
       "week": 55,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Secret of Me",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-secret-of-me/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/25/"
     },
@@ -5524,23 +4447,10 @@
       "date": "2026-01-27",
       "week": 56,
       "weekday": 1,
-      "count": 2,
-      "ratingAvg": 3.8,
-      "films": [
-        {
-          "title": "Zootopia 2",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/zootopia-2/"
-        },
-        {
-          "title": "KINKI",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/kinki-2025/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/27/"
     },
@@ -5570,23 +4480,10 @@
       "date": "2026-01-30",
       "week": 56,
       "weekday": 4,
-      "count": 2,
-      "ratingAvg": 3.8,
-      "films": [
-        {
-          "title": "The Secret Agent",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-secret-agent-2025/"
-        },
-        {
-          "title": "Kung Fury",
-          "year": "2015",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/kung-fury/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/30/"
     },
@@ -5638,17 +4535,10 @@
       "date": "2026-02-04",
       "week": 57,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Dance Flick",
-          "year": "2009",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/dance-flick/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/04/"
     },
@@ -5656,17 +4546,10 @@
       "date": "2026-02-05",
       "week": 57,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "The Housemaid",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-housemaid-2025/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/05/"
     },
@@ -5674,17 +4557,10 @@
       "date": "2026-02-06",
       "week": 57,
       "weekday": 4,
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "We Bury the Dead",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/we-bury-the-dead/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/06/"
     },
@@ -5714,17 +4590,10 @@
       "date": "2026-02-09",
       "week": 58,
       "weekday": 0,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hamnet",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hamnet/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/09/"
     },
@@ -5754,17 +4623,10 @@
       "date": "2026-02-12",
       "week": 58,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Sunset Boulevard",
-          "year": "1950",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/sunset-boulevard/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/12/"
     },
@@ -5794,17 +4656,10 @@
       "date": "2026-02-15",
       "week": 58,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Tropic Thunder",
-          "year": "2008",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/tropic-thunder/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/15/"
     },
@@ -5812,23 +4667,10 @@
       "date": "2026-02-16",
       "week": 59,
       "weekday": 0,
-      "count": 2,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Disaster Movie",
-          "year": "2008",
-          "rating": 1,
-          "url": "https://letterboxd.com/laminthurein/film/disaster-movie/"
-        },
-        {
-          "title": "The Plague",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-plague-2025/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/16/"
     },
@@ -5847,17 +4689,10 @@
       "date": "2026-02-18",
       "week": 59,
       "weekday": 2,
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Marty Supreme",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/marty-supreme/"
-        }
-      ],
-      "level": 1,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/18/"
     },
@@ -9338,2048 +8173,6 @@
       "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/12/31/"
     }
   ],
-  "cells": [
-    {
-      "date": "2025-01-25",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Compartment No. 6",
-          "year": "2021",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/compartment-no-6/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/01/25/"
-    },
-    {
-      "date": "2025-01-26",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Klitschko: More Than a Fight",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/klitschko-more-than-a-fight/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/01/26/"
-    },
-    {
-      "date": "2025-02-11",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Better Man",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/better-man-2024/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/02/11/"
-    },
-    {
-      "date": "2025-02-16",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "One of Them Days",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/one-of-them-days/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/02/16/"
-    },
-    {
-      "date": "2025-02-20",
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "The Gorge",
-          "year": "2025",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/the-gorge-2025/"
-        },
-        {
-          "title": "Helmand: Tour of Duty",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/helmand-tour-of-duty/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/02/20/"
-    },
-    {
-      "date": "2025-02-27",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "FRED: The Movie",
-          "year": "2010",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/fred-the-movie/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/02/27/"
-    },
-    {
-      "date": "2025-03-03",
-      "count": 2,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Flow",
-          "year": "2024",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/laminthurein/film/flow-2024/"
-        },
-        {
-          "title": "Away",
-          "year": "2019",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/away-2019/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/03/"
-    },
-    {
-      "date": "2025-03-06",
-      "count": 2,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "The Manchurian Candidate",
-          "year": "1962",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-manchurian-candidate/"
-        },
-        {
-          "title": "Pocket Hercules: Naim Suleymanoglu",
-          "year": "2019",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/pocket-hercules-naim-suleymanoglu/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/06/"
-    },
-    {
-      "date": "2025-03-14",
-      "count": 3,
-      "ratingAvg": 2.8,
-      "films": [
-        {
-          "title": "Nickel Boys",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/nickel-boys/"
-        },
-        {
-          "title": "Balls Out",
-          "year": "2014",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/balls-out/"
-        },
-        {
-          "title": "Plankton: The Movie",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/plankton-the-movie/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/14/"
-    },
-    {
-      "date": "2025-03-15",
-      "count": 3,
-      "ratingAvg": 2.8,
-      "films": [
-        {
-          "title": "The Parenting",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/the-parenting/"
-        },
-        {
-          "title": "The Rules of Attraction",
-          "year": "2002",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/the-rules-of-attraction/"
-        },
-        {
-          "title": "DodgeBall: A True Underdog Story",
-          "year": "2004",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/dodgeball-a-true-underdog-story/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/15/"
-    },
-    {
-      "date": "2025-03-18",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Beastie Boys Story",
-          "year": "2020",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/beastie-boys-story/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/03/18/"
-    },
-    {
-      "date": "2025-04-03",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hundreds of Beavers",
-          "year": "2022",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hundreds-of-beavers/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/03/"
-    },
-    {
-      "date": "2025-04-05",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "The Life List",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/the-life-list/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/05/"
-    },
-    {
-      "date": "2025-04-08",
-      "count": 3,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Mickey 17",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/mickey-17/"
-        },
-        {
-          "title": "Suze",
-          "year": "2023",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/suze-2023/"
-        },
-        {
-          "title": "Adult Swim Yule Log 2: Branchin' Out",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/adult-swim-yule-log-2-branchin-out/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/08/"
-    },
-    {
-      "date": "2025-04-12",
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Novocaine",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/novocaine-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/12/"
-    },
-    {
-      "date": "2025-04-13",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Thelma",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/thelma-2024/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/13/"
-    },
-    {
-      "date": "2025-04-14",
-      "count": 7,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Lilies Not for Me",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/lilies-not-for-me/"
-        },
-        {
-          "title": "Bonus Track",
-          "year": "2023",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/bonus-track/"
-        },
-        {
-          "title": "Sex",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/sex-2024/"
-        },
-        {
-          "title": "Song Lang",
-          "year": "2018",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/song-lang/2/"
-        },
-        {
-          "title": "High Life",
-          "year": "2018",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/high-life-2018/"
-        },
-        {
-          "title": "Black Mirror: Common People",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/black-mirror-common-people/"
-        },
-        {
-          "title": "Strange Darling",
-          "year": "2023",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/strange-darling/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/14/"
-    },
-    {
-      "date": "2025-04-15",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "The Cakemaker",
-          "year": "2017",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-cakemaker/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/15/"
-    },
-    {
-      "date": "2025-04-17",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Endless Summer Syndrome",
-          "year": "2023",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/endless-summer-syndrome/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/17/"
-    },
-    {
-      "date": "2025-04-18",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Alpha Dog",
-          "year": "2006",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/alpha-dog/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/18/"
-    },
-    {
-      "date": "2025-04-27",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Martin Eden",
-          "year": "2019",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/martin-eden-2019/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/27/"
-    },
-    {
-      "date": "2025-04-28",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Skunk",
-          "year": "2023",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/skunk-2023/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/04/28/"
-    },
-    {
-      "date": "2025-05-03",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "John Carter",
-          "year": "2012",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/john-carter/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/03/"
-    },
-    {
-      "date": "2025-05-09",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "The Ballad of Wallis Island",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-ballad-of-wallis-island/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/09/"
-    },
-    {
-      "date": "2025-05-12",
-      "count": 2,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Fight or Flight",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/fight-or-flight-2024/"
-        },
-        {
-          "title": "While You Were Sleeping",
-          "year": "1995",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/while-you-were-sleeping/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/12/"
-    },
-    {
-      "date": "2025-05-13",
-      "count": 2,
-      "ratingAvg": 1,
-      "films": [
-        {
-          "title": "A Minecraft Movie",
-          "year": "2025",
-          "rating": 1.5,
-          "url": "https://letterboxd.com/laminthurein/film/a-minecraft-movie/"
-        },
-        {
-          "title": "Snow White",
-          "year": "2025",
-          "rating": 0.5,
-          "url": "https://letterboxd.com/laminthurein/film/snow-white-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/13/"
-    },
-    {
-      "date": "2025-05-14",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Dear Evan Hansen",
-          "year": "2021",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/dear-evan-hansen/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/14/"
-    },
-    {
-      "date": "2025-05-15",
-      "count": 2,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Forever-Forever",
-          "year": "2023",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/forever-forever/"
-        },
-        {
-          "title": "The Ugly Stepsister",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/the-ugly-stepsister/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/15/"
-    },
-    {
-      "date": "2025-05-18",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Holy Cow",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/holy-cow-2024/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/18/"
-    },
-    {
-      "date": "2025-05-19",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Speedway Junky",
-          "year": "1999",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/speedway-junky/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/19/"
-    },
-    {
-      "date": "2025-05-22",
-      "count": 6,
-      "ratingAvg": 3.2,
-      "films": [
-        {
-          "title": "#MissingCouple",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/missingcouple/"
-        },
-        {
-          "title": "Horror in the High Desert 3: Firewatch",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/horror-in-the-high-desert-3-firewatch/"
-        },
-        {
-          "title": "Horror in the High Desert 2: Minerva",
-          "year": "2023",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/horror-in-the-high-desert-2-minerva/"
-        },
-        {
-          "title": "Deliver Us from Evil",
-          "year": "2006",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/deliver-us-from-evil/"
-        },
-        {
-          "title": "Sinners",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/sinners-2025/"
-        },
-        {
-          "title": "Sharp Corner",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/sharp-corner/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/22/"
-    },
-    {
-      "date": "2025-05-23",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Splendor in the Grass",
-          "year": "1961",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/splendor-in-the-grass/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/23/"
-    },
-    {
-      "date": "2025-05-24",
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Straight",
-          "year": "2023",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/straight-2023/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/24/"
-    },
-    {
-      "date": "2025-05-25",
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Riley",
-          "year": "2023",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/riley-2023-1/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/25/"
-    },
-    {
-      "date": "2025-05-26",
-      "count": 5,
-      "ratingAvg": 3.7,
-      "films": [
-        {
-          "title": "Thunderbolts*",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/thunderbolts/"
-        },
-        {
-          "title": "Deaf President Now!",
-          "year": "2025",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/laminthurein/film/deaf-president-now/"
-        },
-        {
-          "title": "Motel Destino",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/motel-destino/"
-        },
-        {
-          "title": "Misericordia",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/misericordia-2024/"
-        },
-        {
-          "title": "Il Sorpasso",
-          "year": "1962",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/il-sorpasso/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/05/26/"
-    },
-    {
-      "date": "2025-06-02",
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "On Swift Horses",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/on-swift-horses/"
-        },
-        {
-          "title": "Out",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/out-2024-1/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/02/"
-    },
-    {
-      "date": "2025-06-04",
-      "count": 3,
-      "ratingAvg": 2.8,
-      "films": [
-        {
-          "title": "On Swift Horses",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/on-swift-horses/1/"
-        },
-        {
-          "title": "The Boys Next Door",
-          "year": "1985",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-boys-next-door/"
-        },
-        {
-          "title": "Mountainhead",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/mountainhead/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/04/"
-    },
-    {
-      "date": "2025-06-06",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "A Certain Kind of Death",
-          "year": "2003",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/a-certain-kind-of-death/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/06/"
-    },
-    {
-      "date": "2025-06-09",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Fireworks",
-          "year": "2023",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/fireworks-2023/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/09/"
-    },
-    {
-      "date": "2025-06-13",
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Titan: The OceanGate Submersible Disaster",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/titan-the-oceangate-submersible-disaster/"
-        },
-        {
-          "title": "Fögi Is a Bastard",
-          "year": "1998",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/fogi-is-a-bastard/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/13/"
-    },
-    {
-      "date": "2025-06-14",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Clown in a Cornfield",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/clown-in-a-cornfield/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/14/"
-    },
-    {
-      "date": "2025-06-19",
-      "count": 2,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Trainwreck: The Astroworld Tragedy",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/trainwreck-the-astroworld-tragedy/"
-        },
-        {
-          "title": "Final Destination Bloodlines",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/final-destination-bloodlines/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/19/"
-    },
-    {
-      "date": "2025-06-20",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Kiss the Blood Off My Hands",
-          "year": "1948",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/kiss-the-blood-off-my-hands/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/20/"
-    },
-    {
-      "date": "2025-06-21",
-      "count": 2,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Trainwreck: Mayor of Mayhem",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/trainwreck-mayor-of-mayhem/"
-        },
-        {
-          "title": "Ace in the Hole",
-          "year": "1951",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/ace-in-the-hole/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/21/"
-    },
-    {
-      "date": "2025-06-24",
-      "count": 2,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Walking the Streets of Moscow",
-          "year": "1964",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/walking-the-streets-of-moscow/"
-        },
-        {
-          "title": "28 Days Later",
-          "year": "2002",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/laminthurein/film/28-days-later/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/24/"
-    },
-    {
-      "date": "2025-06-27",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Friendship",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/friendship-2024/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/06/27/"
-    },
-    {
-      "date": "2025-07-01",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Sully",
-          "year": "2016",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/sully/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/01/"
-    },
-    {
-      "date": "2025-07-02",
-      "count": 4,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Bring Her Back",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/bring-her-back/"
-        },
-        {
-          "title": "Mascarpone: The Rainbow Cake",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/mascarpone-the-rainbow-cake/"
-        },
-        {
-          "title": "Plainclothes",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/plainclothes/"
-        },
-        {
-          "title": "A Necessary Death",
-          "year": "2008",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/a-necessary-death/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/02/"
-    },
-    {
-      "date": "2025-07-09",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Next to Normal",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/next-to-normal/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/09/"
-    },
-    {
-      "date": "2025-07-15",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Gaza: How to Survive a Warzone",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/gaza-how-to-survive-a-warzone/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/15/"
-    },
-    {
-      "date": "2025-07-16",
-      "count": 2,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Gaza: Doctors Under Attack",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/gaza-doctors-under-attack/"
-        },
-        {
-          "title": "Trainwreck: The Real Project X",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/trainwreck-the-real-project-x/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/16/"
-    },
-    {
-      "date": "2025-07-17",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hill",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hill-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/17/"
-    },
-    {
-      "date": "2025-07-20",
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "M3GAN 2.0",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/m3gan-20/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/20/"
-    },
-    {
-      "date": "2025-07-23",
-      "count": 2,
-      "ratingAvg": 3.8,
-      "films": [
-        {
-          "title": "A Man and a Woman",
-          "year": "1966",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/a-man-and-a-woman/"
-        },
-        {
-          "title": "No Other Land",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/no-other-land/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/23/"
-    },
-    {
-      "date": "2025-07-30",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "28 Years Later",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/28-years-later/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/30/"
-    },
-    {
-      "date": "2025-07-31",
-      "count": 3,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "Rushmore",
-          "year": "1998",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/rushmore/"
-        },
-        {
-          "title": "Materialists",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/materialists/"
-        },
-        {
-          "title": "Grizzly Man",
-          "year": "2005",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/grizzly-man/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/07/31/"
-    },
-    {
-      "date": "2025-08-01",
-      "count": 2,
-      "ratingAvg": 4.5,
-      "films": [
-        {
-          "title": "A Separation",
-          "year": "2011",
-          "rating": 5,
-          "url": "https://letterboxd.com/laminthurein/film/a-separation/"
-        },
-        {
-          "title": "The Time That Remains",
-          "year": "2009",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-time-that-remains/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/01/"
-    },
-    {
-      "date": "2025-08-02",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "How to Steal a Million",
-          "year": "1966",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/how-to-steal-a-million/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/02/"
-    },
-    {
-      "date": "2025-08-06",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Pain and Glory",
-          "year": "2019",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/pain-and-glory/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/06/"
-    },
-    {
-      "date": "2025-08-07",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Kung Pow: Enter the Fist",
-          "year": "2002",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/kung-pow-enter-the-fist/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/07/"
-    },
-    {
-      "date": "2025-08-09",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "The Life of Chuck",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-life-of-chuck/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/09/"
-    },
-    {
-      "date": "2025-08-10",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Late Shift",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/late-shift-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/10/"
-    },
-    {
-      "date": "2025-08-11",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Robin Hood: Men in Tights",
-          "year": "1993",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/robin-hood-men-in-tights/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/11/"
-    },
-    {
-      "date": "2025-08-13",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Last Swim",
-          "year": "2024",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/last-swim/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/13/"
-    },
-    {
-      "date": "2025-08-15",
-      "count": 3,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Mad God",
-          "year": "2021",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/mad-god/"
-        },
-        {
-          "title": "The Grand Budapest Hotel",
-          "year": "2014",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-grand-budapest-hotel/"
-        },
-        {
-          "title": "Beautiful Creatures",
-          "year": "2013",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/beautiful-creatures-2013/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/15/"
-    },
-    {
-      "date": "2025-08-16",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Superman",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/superman-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/16/"
-    },
-    {
-      "date": "2025-08-19",
-      "count": 2,
-      "ratingAvg": 2.3,
-      "films": [
-        {
-          "title": "David's Birthday",
-          "year": "2009",
-          "rating": 1,
-          "url": "https://letterboxd.com/laminthurein/film/davids-birthday/"
-        },
-        {
-          "title": "The Hudsucker Proxy",
-          "year": "1994",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-hudsucker-proxy/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/19/"
-    },
-    {
-      "date": "2025-08-24",
-      "count": 2,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Brett Goldstein: The Second Best Night of Your Life",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/brett-goldstein-the-second-best-night-of/"
-        },
-        {
-          "title": "Treading Water",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/treading-water-2024/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/24/"
-    },
-    {
-      "date": "2025-08-27",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Reno 911!: Miami",
-          "year": "2007",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/reno-911-miami/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/08/27/"
-    },
-    {
-      "date": "2025-09-04",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Together",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/together-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/04/"
-    },
-    {
-      "date": "2025-09-05",
-      "count": 3,
-      "ratingAvg": 3.3,
-      "films": [
-        {
-          "title": "The Naked Gun",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-naked-gun/"
-        },
-        {
-          "title": "Nobody 2",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/nobody-2/"
-        },
-        {
-          "title": "Unknown Number: The High School Catfish",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/unknown-number-the-high-school-catfish/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/05/"
-    },
-    {
-      "date": "2025-09-10",
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "The Conjuring: Last Rites",
-          "year": "2025",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/the-conjuring-last-rites/"
-        },
-        {
-          "title": "Weapons",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/weapons-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/10/"
-    },
-    {
-      "date": "2025-09-17",
-      "count": 1,
-      "ratingAvg": 2,
-      "films": [
-        {
-          "title": "The Truth About Jussie Smollett?",
-          "year": "2025",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/the-truth-about-jussie-smollett/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/17/"
-    },
-    {
-      "date": "2025-09-24",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Microcosmos",
-          "year": "1996",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/microcosmos/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/09/24/"
-    },
-    {
-      "date": "2025-10-06",
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "V/H/S/Halloween",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/v-h-s-halloween/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/06/"
-    },
-    {
-      "date": "2025-10-07",
-      "count": 2,
-      "ratingAvg": 3.8,
-      "films": [
-        {
-          "title": "Splitsville",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/splitsville/"
-        },
-        {
-          "title": "Twinless",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/twinless/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/07/"
-    },
-    {
-      "date": "2025-10-18",
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "HIM",
-          "year": "2025",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/him-2025/"
-        },
-        {
-          "title": "The Alabama Solution",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-alabama-solution/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/18/"
-    },
-    {
-      "date": "2025-10-20",
-      "count": 1,
-      "ratingAvg": 2,
-      "films": [
-        {
-          "title": "The Speedway Murders",
-          "year": "2023",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/the-speedway-murders/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/20/"
-    },
-    {
-      "date": "2025-10-24",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Long Walk",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-long-walk-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/24/"
-    },
-    {
-      "date": "2025-10-25",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Roses",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-roses-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/25/"
-    },
-    {
-      "date": "2025-10-30",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Block Pass",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/block-pass/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/10/30/"
-    },
-    {
-      "date": "2025-11-08",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Hi-Five",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/hi-five/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/08/"
-    },
-    {
-      "date": "2025-11-10",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Enzo",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/enzo-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/10/"
-    },
-    {
-      "date": "2025-11-11",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Idle Hands",
-          "year": "1999",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/idle-hands/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/11/"
-    },
-    {
-      "date": "2025-11-12",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Frankenstein",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/frankenstein-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/12/"
-    },
-    {
-      "date": "2025-11-16",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Brady Bunch Movie",
-          "year": "1995",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-brady-bunch-movie/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/16/"
-    },
-    {
-      "date": "2025-11-19",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "A Night Like This",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/a-night-like-this-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/19/"
-    },
-    {
-      "date": "2025-11-22",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Anatomy of Hell",
-          "year": "2004",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/anatomy-of-hell/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/22/"
-    },
-    {
-      "date": "2025-11-24",
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Thoughts & Prayers",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/thoughts-prayers-2025/"
-        },
-        {
-          "title": "Birdeater",
-          "year": "2023",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/birdeater/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/11/24/"
-    },
-    {
-      "date": "2025-12-12",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Bugonia",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/bugonia/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/12/"
-    },
-    {
-      "date": "2025-12-19",
-      "count": 2,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Now You See Me: Now You Don't",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/now-you-see-me-now-you-dont-2025/"
-        },
-        {
-          "title": "Sentimental Value",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/sentimental-value-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/19/"
-    },
-    {
-      "date": "2025-12-20",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Devil Is Busy",
-          "year": "2024",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-devil-is-busy/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/20/"
-    },
-    {
-      "date": "2025-12-22",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/jujutsu-kaisen-hidden-inventory-premature/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/22/"
-    },
-    {
-      "date": "2025-12-25",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Eternity",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/eternity-2025-1/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/25/"
-    },
-    {
-      "date": "2025-12-26",
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Varsity Blues",
-          "year": "1999",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/varsity-blues/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/26/"
-    },
-    {
-      "date": "2025-12-28",
-      "count": 2,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Fackham Hall",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/fackham-hall/"
-        },
-        {
-          "title": "Zootopia",
-          "year": "2016",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/zootopia/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/28/"
-    },
-    {
-      "date": "2025-12-31",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Tom at the Farm",
-          "year": "2013",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/tom-at-the-farm/1/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2025/12/31/"
-    },
-    {
-      "date": "2026-01-01",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hot Shots!",
-          "year": "1991",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hot-shots/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/01/"
-    },
-    {
-      "date": "2026-01-09",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Beyond the Walls",
-          "year": "2012",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/beyond-the-walls/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/09/"
-    },
-    {
-      "date": "2026-01-12",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "People We Meet on Vacation",
-          "year": "2026",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/people-we-meet-on-vacation/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/12/"
-    },
-    {
-      "date": "2026-01-16",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hot Shots! Part Deux",
-          "year": "1993",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hot-shots-part-deux/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/16/"
-    },
-    {
-      "date": "2026-01-17",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Spanish Movie",
-          "year": "2009",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/spanish-movie/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/17/"
-    },
-    {
-      "date": "2026-01-18",
-      "count": 3,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Blazing Saddles",
-          "year": "1974",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/blazing-saddles/"
-        },
-        {
-          "title": "The New Yorker at 100",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-new-yorker-at-100/"
-        },
-        {
-          "title": "Pillion",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/pillion-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/18/"
-    },
-    {
-      "date": "2026-01-19",
-      "count": 2,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Only Good Things",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/only-good-things-2025/"
-        },
-        {
-          "title": "Hot Rod",
-          "year": "2007",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/hot-rod/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/19/"
-    },
-    {
-      "date": "2026-01-25",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "The Secret of Me",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-secret-of-me/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/25/"
-    },
-    {
-      "date": "2026-01-27",
-      "count": 2,
-      "ratingAvg": 3.8,
-      "films": [
-        {
-          "title": "Zootopia 2",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/zootopia-2/"
-        },
-        {
-          "title": "KINKI",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/kinki-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/27/"
-    },
-    {
-      "date": "2026-01-30",
-      "count": 2,
-      "ratingAvg": 3.8,
-      "films": [
-        {
-          "title": "The Secret Agent",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-secret-agent-2025/"
-        },
-        {
-          "title": "Kung Fury",
-          "year": "2015",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/kung-fury/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/01/30/"
-    },
-    {
-      "date": "2026-02-04",
-      "count": 1,
-      "ratingAvg": 3.5,
-      "films": [
-        {
-          "title": "Dance Flick",
-          "year": "2009",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/dance-flick/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/04/"
-    },
-    {
-      "date": "2026-02-05",
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "The Housemaid",
-          "year": "2025",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/the-housemaid-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/05/"
-    },
-    {
-      "date": "2026-02-06",
-      "count": 1,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "We Bury the Dead",
-          "year": "2024",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/we-bury-the-dead/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/06/"
-    },
-    {
-      "date": "2026-02-09",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Hamnet",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/hamnet/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/09/"
-    },
-    {
-      "date": "2026-02-12",
-      "count": 1,
-      "ratingAvg": 4,
-      "films": [
-        {
-          "title": "Sunset Boulevard",
-          "year": "1950",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/sunset-boulevard/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/12/"
-    },
-    {
-      "date": "2026-02-15",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Tropic Thunder",
-          "year": "2008",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/tropic-thunder/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/15/"
-    },
-    {
-      "date": "2026-02-16",
-      "count": 2,
-      "ratingAvg": 2.5,
-      "films": [
-        {
-          "title": "Disaster Movie",
-          "year": "2008",
-          "rating": 1,
-          "url": "https://letterboxd.com/laminthurein/film/disaster-movie/"
-        },
-        {
-          "title": "The Plague",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/the-plague-2025/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/16/"
-    },
-    {
-      "date": "2026-02-18",
-      "count": 1,
-      "ratingAvg": 3,
-      "films": [
-        {
-          "title": "Marty Supreme",
-          "year": "2025",
-          "rating": 3,
-          "url": "https://letterboxd.com/laminthurein/film/marty-supreme/"
-        }
-      ],
-      "url": "https://letterboxd.com/laminthurein/films/diary/for/2026/02/18/"
-    }
-  ],
-  "recent": [
-    {
-      "date": "2026-02-18",
-      "title": "Marty Supreme",
-      "year": "2025",
-      "rating": 3,
-      "url": "https://letterboxd.com/laminthurein/film/marty-supreme/"
-    },
-    {
-      "date": "2026-02-16",
-      "title": "Disaster Movie",
-      "year": "2008",
-      "rating": 1,
-      "url": "https://letterboxd.com/laminthurein/film/disaster-movie/"
-    },
-    {
-      "date": "2026-02-16",
-      "title": "The Plague",
-      "year": "2025",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/the-plague-2025/"
-    },
-    {
-      "date": "2026-02-15",
-      "title": "Tropic Thunder",
-      "year": "2008",
-      "rating": 3,
-      "url": "https://letterboxd.com/laminthurein/film/tropic-thunder/"
-    },
-    {
-      "date": "2026-02-12",
-      "title": "Sunset Boulevard",
-      "year": "1950",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/sunset-boulevard/"
-    },
-    {
-      "date": "2026-02-09",
-      "title": "Hamnet",
-      "year": "2025",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/hamnet/"
-    },
-    {
-      "date": "2026-02-06",
-      "title": "We Bury the Dead",
-      "year": "2024",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/laminthurein/film/we-bury-the-dead/"
-    },
-    {
-      "date": "2026-02-05",
-      "title": "The Housemaid",
-      "year": "2025",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/laminthurein/film/the-housemaid-2025/"
-    },
-    {
-      "date": "2026-02-04",
-      "title": "Dance Flick",
-      "year": "2009",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/laminthurein/film/dance-flick/"
-    },
-    {
-      "date": "2026-01-30",
-      "title": "The Secret Agent",
-      "year": "2025",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/the-secret-agent-2025/"
-    }
-  ]
+  "cells": [],
+  "recent": []
 }
