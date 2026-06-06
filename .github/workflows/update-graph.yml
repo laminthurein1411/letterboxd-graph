@@ -4,7 +4,7 @@ name: Update Letterboxd Graph + JSON Export
 # ║  CONFIGURATION - Edit these values for your Letterboxd profile ║
 # ╚════════════════════════════════════════════════════════════════╝
 env:
-  LETTERBOXD_USERNAME: "nichtlegacy"  # Your Letterboxd username
+  LETTERBOXD_USERNAME: "laminthurein"  # Your Letterboxd username
   YEARS: "2026,2025"                            # Years to generate (e.g. "2026,2025" or leave empty for current)
   EXPORT_PNG: "false"                  # Set to "true" to also generate PNG files
   WEEK_START: "sunday"                 # "sunday" or "monday"
