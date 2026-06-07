@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-06-06T10:16:14.133Z",
+  "generatedAt": "2026-06-07T04:09:44.948Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 190,
-    "daysActive": 126,
+    "films": 191,
+    "daysActive": 127,
     "streak": 5
   },
   "monthLabels": [
@@ -7154,10 +7154,17 @@
       "date": "2026-06-06",
       "week": 74,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "The Murder of Rachel Nickell",
+          "year": "2026",
+          "rating": 2,
+          "url": "https://letterboxd.com/laminthurein/film/the-murder-of-rachel-nickell/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/06/"
     },
@@ -11598,9 +11605,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/05/"
+    },
+    {
+      "date": "2026-06-06",
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "The Murder of Rachel Nickell",
+          "year": "2026",
+          "rating": 2,
+          "url": "https://letterboxd.com/laminthurein/film/the-murder-of-rachel-nickell/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/06/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-06",
+      "title": "The Murder of Rachel Nickell",
+      "year": "2026",
+      "rating": 2,
+      "url": "https://letterboxd.com/laminthurein/film/the-murder-of-rachel-nickell/"
+    },
     {
       "date": "2026-06-05",
       "title": "Blind Cop 2",
@@ -11663,13 +11691,6 @@
       "year": "2026",
       "rating": 3.5,
       "url": "https://letterboxd.com/laminthurein/film/hoppers/"
-    },
-    {
-      "date": "2026-04-19",
-      "title": "Burnt Money",
-      "year": "2000",
-      "rating": 5,
-      "url": "https://letterboxd.com/laminthurein/film/burnt-money/"
     }
   ]
 }
