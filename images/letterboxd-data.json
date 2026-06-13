@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-06-12T04:12:24.937Z",
+  "generatedAt": "2026-06-13T04:01:47.187Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 191,
-    "daysActive": 127,
+    "films": 193,
+    "daysActive": 128,
     "streak": 5
   },
   "monthLabels": [
@@ -7227,10 +7227,23 @@
       "date": "2026-06-12",
       "week": 75,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 4.3,
+      "films": [
+        {
+          "title": "Night Stage",
+          "year": "2025",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/laminthurein/film/night-stage/"
+        },
+        {
+          "title": "Perro perro",
+          "year": "2025",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/perro-perro/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/12/"
     },
@@ -11619,9 +11632,43 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/06/"
+    },
+    {
+      "date": "2026-06-12",
+      "count": 2,
+      "ratingAvg": 4.3,
+      "films": [
+        {
+          "title": "Night Stage",
+          "year": "2025",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/laminthurein/film/night-stage/"
+        },
+        {
+          "title": "Perro perro",
+          "year": "2025",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/perro-perro/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/12/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-12",
+      "title": "Night Stage",
+      "year": "2025",
+      "rating": 4.5,
+      "url": "https://letterboxd.com/laminthurein/film/night-stage/"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Perro perro",
+      "year": "2025",
+      "rating": 4,
+      "url": "https://letterboxd.com/laminthurein/film/perro-perro/"
+    },
     {
       "date": "2026-06-06",
       "title": "The Murder of Rachel Nickell",
@@ -11677,20 +11724,6 @@
       "year": "2026",
       "rating": 4,
       "url": "https://letterboxd.com/laminthurein/film/the-drama/"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "The Brotherhood",
-      "year": "2001",
-      "rating": 2,
-      "url": "https://letterboxd.com/laminthurein/film/the-brotherhood-2001/"
-    },
-    {
-      "date": "2026-04-30",
-      "title": "Hoppers",
-      "year": "2026",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/laminthurein/film/hoppers/"
     }
   ]
 }
