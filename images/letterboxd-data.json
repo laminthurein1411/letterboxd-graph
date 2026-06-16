@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-06-15T04:28:32.617Z",
+  "generatedAt": "2026-06-16T04:27:27.460Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 193,
-    "daysActive": 128,
+    "films": 194,
+    "daysActive": 129,
     "streak": 5
   },
   "monthLabels": [
@@ -7273,10 +7273,17 @@
       "date": "2026-06-15",
       "week": 76,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "#300Letters",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/300letters/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/15/"
     },
@@ -11652,9 +11659,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/12/"
+    },
+    {
+      "date": "2026-06-15",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "#300Letters",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/300letters/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/15/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-15",
+      "title": "#300Letters",
+      "year": "2025",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/laminthurein/film/300letters/"
+    },
     {
       "date": "2026-06-12",
       "title": "Night Stage",
@@ -11717,13 +11745,6 @@
       "year": "2026",
       "rating": 1.5,
       "url": "https://letterboxd.com/laminthurein/film/untold-the-shooting-at-hawthorne-hill/"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "The Drama",
-      "year": "2026",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/the-drama/"
     }
   ]
 }
