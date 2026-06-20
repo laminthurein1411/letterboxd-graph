@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-06-19T04:29:59.590Z",
+  "generatedAt": "2026-06-20T03:54:01.706Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 194,
-    "daysActive": 129,
+    "films": 196,
+    "daysActive": 130,
     "streak": 5
   },
   "monthLabels": [
@@ -7324,10 +7324,23 @@
       "date": "2026-06-19",
       "week": 76,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Blue Film",
+          "year": "2025",
+          "rating": 5,
+          "url": "https://letterboxd.com/laminthurein/film/blue-film-2025/"
+        },
+        {
+          "title": "Stryker Force",
+          "year": "1987",
+          "rating": 3,
+          "url": "https://letterboxd.com/laminthurein/film/stryker-force/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/19/"
     },
@@ -11673,9 +11686,43 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/15/"
+    },
+    {
+      "date": "2026-06-19",
+      "count": 2,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Blue Film",
+          "year": "2025",
+          "rating": 5,
+          "url": "https://letterboxd.com/laminthurein/film/blue-film-2025/"
+        },
+        {
+          "title": "Stryker Force",
+          "year": "1987",
+          "rating": 3,
+          "url": "https://letterboxd.com/laminthurein/film/stryker-force/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/19/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-19",
+      "title": "Blue Film",
+      "year": "2025",
+      "rating": 5,
+      "url": "https://letterboxd.com/laminthurein/film/blue-film-2025/"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Stryker Force",
+      "year": "1987",
+      "rating": 3,
+      "url": "https://letterboxd.com/laminthurein/film/stryker-force/"
+    },
     {
       "date": "2026-06-15",
       "title": "#300Letters",
@@ -11731,20 +11778,6 @@
       "year": "2005",
       "rating": 3.5,
       "url": "https://letterboxd.com/laminthurein/film/kingdom-of-heaven/"
-    },
-    {
-      "date": "2026-05-18",
-      "title": "The Crash",
-      "year": "2026",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/laminthurein/film/the-crash-2026/"
-    },
-    {
-      "date": "2026-05-11",
-      "title": "Untold: The Shooting at Hawthorne Hill",
-      "year": "2026",
-      "rating": 1.5,
-      "url": "https://letterboxd.com/laminthurein/film/untold-the-shooting-at-hawthorne-hill/"
     }
   ]
 }
