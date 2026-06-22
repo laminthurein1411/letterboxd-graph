@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-06-21T04:26:53.283Z",
+  "generatedAt": "2026-06-22T04:29:19.035Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 196,
-    "daysActive": 130,
+    "films": 197,
+    "daysActive": 131,
     "streak": 5
   },
   "monthLabels": [
@@ -7359,10 +7359,17 @@
       "date": "2026-06-21",
       "week": 77,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Two Prosecutors",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/two-prosecutors/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/21/"
     },
@@ -11706,9 +11713,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/19/"
+    },
+    {
+      "date": "2026-06-21",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Two Prosecutors",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/two-prosecutors/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/21/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-21",
+      "title": "Two Prosecutors",
+      "year": "2025",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/laminthurein/film/two-prosecutors/"
+    },
     {
       "date": "2026-06-19",
       "title": "Blue Film",
@@ -11771,13 +11799,6 @@
       "year": "1979",
       "rating": 3.5,
       "url": "https://letterboxd.com/laminthurein/film/le-beau-mec/"
-    },
-    {
-      "date": "2026-05-18",
-      "title": "Kingdom of Heaven",
-      "year": "2005",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/laminthurein/film/kingdom-of-heaven/"
     }
   ]
 }
