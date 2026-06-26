@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-06-25T03:45:31.592Z",
+  "generatedAt": "2026-06-26T03:55:06.384Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 198,
-    "daysActive": 132,
+    "films": 199,
+    "daysActive": 133,
     "streak": 5
   },
   "monthLabels": [
@@ -7417,10 +7417,17 @@
       "date": "2026-06-25",
       "week": 77,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Sheep Detectives",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/the-sheep-detectives/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/25/"
     },
@@ -11748,9 +11755,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/22/"
+    },
+    {
+      "date": "2026-06-25",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Sheep Detectives",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/the-sheep-detectives/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/25/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-25",
+      "title": "The Sheep Detectives",
+      "year": "2026",
+      "rating": 4,
+      "url": "https://letterboxd.com/laminthurein/film/the-sheep-detectives/"
+    },
     {
       "date": "2026-06-22",
       "title": "Voicemails for Isabelle",
@@ -11813,13 +11841,6 @@
       "year": "2025",
       "rating": 2.5,
       "url": "https://letterboxd.com/laminthurein/film/blind-cop-2/"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "Bad Medicine",
-      "year": "2015",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/laminthurein/film/bad-medicine-2015/"
     }
   ]
 }
