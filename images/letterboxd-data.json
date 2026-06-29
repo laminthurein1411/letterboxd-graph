@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-06-28T04:02:14.622Z",
+  "generatedAt": "2026-06-29T04:06:52.646Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 199,
-    "daysActive": 133,
+    "films": 201,
+    "daysActive": 134,
     "streak": 5
   },
   "monthLabels": [
@@ -7457,10 +7457,23 @@
       "date": "2026-06-28",
       "week": 78,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Mile End Kicks",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/mile-end-kicks/"
+        },
+        {
+          "title": "Finding Emily",
+          "year": "2026",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/laminthurein/film/finding-emily/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/28/"
     },
@@ -11769,9 +11782,43 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/25/"
+    },
+    {
+      "date": "2026-06-28",
+      "count": 2,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Mile End Kicks",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/mile-end-kicks/"
+        },
+        {
+          "title": "Finding Emily",
+          "year": "2026",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/laminthurein/film/finding-emily/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/28/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-28",
+      "title": "Mile End Kicks",
+      "year": "2025",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/laminthurein/film/mile-end-kicks/"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Finding Emily",
+      "year": "2026",
+      "rating": 4.5,
+      "url": "https://letterboxd.com/laminthurein/film/finding-emily/"
+    },
     {
       "date": "2026-06-25",
       "title": "The Sheep Detectives",
@@ -11827,20 +11874,6 @@
       "year": "2025",
       "rating": 4,
       "url": "https://letterboxd.com/laminthurein/film/perro-perro/"
-    },
-    {
-      "date": "2026-06-06",
-      "title": "The Murder of Rachel Nickell",
-      "year": "2026",
-      "rating": 2,
-      "url": "https://letterboxd.com/laminthurein/film/the-murder-of-rachel-nickell/"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "Blind Cop 2",
-      "year": "2025",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/laminthurein/film/blind-cop-2/"
     }
   ]
 }
