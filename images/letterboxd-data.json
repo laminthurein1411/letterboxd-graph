@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-01T04:07:01.279Z",
+  "generatedAt": "2026-07-02T03:45:06.445Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 201,
-    "daysActive": 134,
+    "films": 202,
+    "daysActive": 135,
     "streak": 5
   },
   "monthLabels": [
@@ -7503,10 +7503,17 @@
       "date": "2026-07-01",
       "week": 78,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Obsession",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/obsession-2025/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/01/"
     },
@@ -11802,9 +11809,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/06/28/"
+    },
+    {
+      "date": "2026-07-01",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Obsession",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/obsession-2025/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/01/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-01",
+      "title": "Obsession",
+      "year": "2025",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/laminthurein/film/obsession-2025/"
+    },
     {
       "date": "2026-06-28",
       "title": "Mile End Kicks",
@@ -11867,13 +11895,6 @@
       "year": "2025",
       "rating": 4.5,
       "url": "https://letterboxd.com/laminthurein/film/night-stage/"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "Perro Perro",
-      "year": "2025",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/perro-perro/"
     }
   ]
 }
