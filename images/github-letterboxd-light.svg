@@ -86,7 +86,7 @@
         <tspan fill="#656d76">@laminthurein</tspan>
       </a>
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">2242</tspan>
+      <tspan dx="5" fill="#1f2328">2243</tspan>
       <tspan fill="#656d76"> Films</tspan>
       <tspan dx="5" fill="#656d76">•</tspan>
       <tspan dx="5" fill="#1f2328">27</tspan>
@@ -122,17 +122,17 @@
         <text x="94" y="71" font-size="8" fill="#1f2328" text-anchor="middle">3</text>
         <rect x="87" y="74" width="14" height="6" rx="2" fill="#40c463"/>
         <text x="94" y="98" font-size="7" fill="#1f2328" text-anchor="middle">2</text>
-        <text x="118" y="69" font-size="8" fill="#1f2328" text-anchor="middle">4</text>
-        <rect x="111" y="72" width="14" height="8" rx="2" fill="#30a14e"/>
+        <text x="118" y="68" font-size="8" fill="#1f2328" text-anchor="middle">4</text>
+        <rect x="111" y="71" width="14" height="9" rx="2" fill="#30a14e"/>
         <text x="118" y="98" font-size="7" fill="#1f2328" text-anchor="middle">2.5</text>
-        <text x="142" y="69" font-size="8" fill="#1f2328" text-anchor="middle">4</text>
-        <rect x="135" y="72" width="14" height="8" rx="2" fill="#30a14e"/>
+        <text x="142" y="68" font-size="8" fill="#1f2328" text-anchor="middle">4</text>
+        <rect x="135" y="71" width="14" height="9" rx="2" fill="#30a14e"/>
         <text x="142" y="98" font-size="7" fill="#1f2328" text-anchor="middle">3</text>
-        <text x="166" y="32" font-size="8" fill="#1f2328" text-anchor="middle">22</text>
+        <text x="166" y="32" font-size="8" fill="#1f2328" text-anchor="middle">21</text>
         <rect x="159" y="35" width="14" height="45" rx="2" fill="#216e39"/>
         <text x="166" y="98" font-size="7" fill="#1f2328" text-anchor="middle">3.5</text>
-        <text x="190" y="54" font-size="8" fill="#1f2328" text-anchor="middle">11</text>
-        <rect x="183" y="57" width="14" height="23" rx="2" fill="#216e39"/>
+        <text x="190" y="51" font-size="8" fill="#1f2328" text-anchor="middle">12</text>
+        <rect x="183" y="54" width="14" height="26" rx="2" fill="#216e39"/>
         <text x="190" y="98" font-size="7" fill="#1f2328" text-anchor="middle">4</text>
         <text x="214" y="73" font-size="8" fill="#1f2328" text-anchor="middle">2</text>
         <rect x="207" y="76" width="14" height="4" rx="2" fill="#216e39"/>
@@ -3515,7 +3515,7 @@
           <rect x="0" y="0" width="240" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
             <tspan x="10" dy="22" font-weight="600">Wed, 1. Jul 2026: 1 movie watched</tspan>
-            <tspan x="10" dy="18">• Obsession (2025) - 3.5★</tspan>
+            <tspan x="10" dy="18">• Obsession (2025) - 4★</tspan>
           </text>
         </g>
       </a>

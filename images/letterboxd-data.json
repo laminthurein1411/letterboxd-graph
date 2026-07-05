@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-04T03:19:37.170Z",
+  "generatedAt": "2026-07-05T03:36:53.233Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -7504,12 +7504,12 @@
       "week": 78,
       "weekday": 3,
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 4,
       "films": [
         {
           "title": "Obsession",
           "year": "2025",
-          "rating": 3.5,
+          "rating": 4,
           "url": "https://letterboxd.com/laminthurein/film/obsession-2025/"
         }
       ],
@@ -11813,12 +11813,12 @@
     {
       "date": "2026-07-01",
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 4,
       "films": [
         {
           "title": "Obsession",
           "year": "2025",
-          "rating": 3.5,
+          "rating": 4,
           "url": "https://letterboxd.com/laminthurein/film/obsession-2025/"
         }
       ],
@@ -11830,7 +11830,7 @@
       "date": "2026-07-01",
       "title": "Obsession",
       "year": "2025",
-      "rating": 3.5,
+      "rating": 4,
       "url": "https://letterboxd.com/laminthurein/film/obsession-2025/"
     },
     {
