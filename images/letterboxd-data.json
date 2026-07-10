@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-09T03:28:08.071Z",
+  "generatedAt": "2026-07-10T03:32:30.259Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 202,
-    "daysActive": 135,
+    "films": 203,
+    "daysActive": 136,
     "streak": 5
   },
   "monthLabels": [
@@ -7598,10 +7598,17 @@
       "date": "2026-07-09",
       "week": 79,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Furious",
+          "year": "2025",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/the-furious/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/09/"
     },
@@ -11823,9 +11830,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/01/"
+    },
+    {
+      "date": "2026-07-09",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Furious",
+          "year": "2025",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/the-furious/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/09/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-09",
+      "title": "The Furious",
+      "year": "2025",
+      "rating": 4,
+      "url": "https://letterboxd.com/laminthurein/film/the-furious/"
+    },
     {
       "date": "2026-07-01",
       "title": "Obsession",
@@ -11888,13 +11916,6 @@
       "year": "2025",
       "rating": 3.5,
       "url": "https://letterboxd.com/laminthurein/film/300letters/"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "Night Stage",
-      "year": "2025",
-      "rating": 4.5,
-      "url": "https://letterboxd.com/laminthurein/film/night-stage/"
     }
   ]
 }
