@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-11T02:46:38.282Z",
+  "generatedAt": "2026-07-12T02:55:08.128Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 203,
-    "daysActive": 136,
+    "films": 204,
+    "daysActive": 137,
     "streak": 5
   },
   "monthLabels": [
@@ -7627,10 +7627,17 @@
       "date": "2026-07-11",
       "week": 79,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Hole",
+          "year": "2003",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/the-hole-2003/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/11/"
     },
@@ -11844,9 +11851,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/09/"
+    },
+    {
+      "date": "2026-07-11",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Hole",
+          "year": "2003",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/the-hole-2003/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/11/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-11",
+      "title": "The Hole",
+      "year": "2003",
+      "rating": 4,
+      "url": "https://letterboxd.com/laminthurein/film/the-hole-2003/"
+    },
     {
       "date": "2026-07-09",
       "title": "The Furious",
@@ -11909,13 +11937,6 @@
       "year": "1987",
       "rating": 3,
       "url": "https://letterboxd.com/laminthurein/film/stryker-force/"
-    },
-    {
-      "date": "2026-06-15",
-      "title": "#300Letters",
-      "year": "2025",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/laminthurein/film/300letters/"
     }
   ]
 }
