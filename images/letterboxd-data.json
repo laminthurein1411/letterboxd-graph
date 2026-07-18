@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-17T02:45:58.375Z",
+  "generatedAt": "2026-07-18T02:39:25.505Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 204,
-    "daysActive": 137,
+    "films": 205,
+    "daysActive": 138,
     "streak": 5
   },
   "monthLabels": [
@@ -7700,10 +7700,17 @@
       "date": "2026-07-17",
       "week": 80,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Backrooms",
+          "year": "2026",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/backrooms-2026/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/17/"
     },
@@ -11865,9 +11872,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/11/"
+    },
+    {
+      "date": "2026-07-17",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Backrooms",
+          "year": "2026",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/backrooms-2026/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/17/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-17",
+      "title": "Backrooms",
+      "year": "2026",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/laminthurein/film/backrooms-2026/"
+    },
     {
       "date": "2026-07-11",
       "title": "The Hole",
@@ -11930,13 +11958,6 @@
       "year": "2025",
       "rating": 5,
       "url": "https://letterboxd.com/laminthurein/film/blue-film-2025/"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "Stryker Force",
-      "year": "1987",
-      "rating": 3,
-      "url": "https://letterboxd.com/laminthurein/film/stryker-force/"
     }
   ]
 }
