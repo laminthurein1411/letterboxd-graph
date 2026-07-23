@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-22T02:49:46.282Z",
+  "generatedAt": "2026-07-23T02:54:05.363Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 205,
-    "daysActive": 138,
+    "films": 207,
+    "daysActive": 139,
     "streak": 5
   },
   "monthLabels": [
@@ -7762,10 +7762,23 @@
       "date": "2026-07-22",
       "week": 81,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "The Stranger",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/the-stranger-2025-1/"
+        },
+        {
+          "title": "Scary Movie",
+          "year": "2026",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/laminthurein/film/scary-movie-2026/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/22/"
     },
@@ -11886,9 +11899,43 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/17/"
+    },
+    {
+      "date": "2026-07-22",
+      "count": 2,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "The Stranger",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/the-stranger-2025-1/"
+        },
+        {
+          "title": "Scary Movie",
+          "year": "2026",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/laminthurein/film/scary-movie-2026/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/22/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-22",
+      "title": "The Stranger",
+      "year": "2025",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/laminthurein/film/the-stranger-2025-1/"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Scary Movie",
+      "year": "2026",
+      "rating": 2.5,
+      "url": "https://letterboxd.com/laminthurein/film/scary-movie-2026/"
+    },
     {
       "date": "2026-07-17",
       "title": "Backrooms",
@@ -11944,20 +11991,6 @@
       "year": "2026",
       "rating": 3.5,
       "url": "https://letterboxd.com/laminthurein/film/voicemails-for-isabelle/"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "Two Prosecutors",
-      "year": "2025",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/laminthurein/film/two-prosecutors/"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "Blue Film",
-      "year": "2025",
-      "rating": 5,
-      "url": "https://letterboxd.com/laminthurein/film/blue-film-2025/"
     }
   ]
 }
