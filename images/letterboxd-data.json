@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-23T02:54:05.363Z",
+  "generatedAt": "2026-07-24T02:53:15.963Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 207,
-    "daysActive": 139,
+    "films": 208,
+    "daysActive": 140,
     "streak": 5
   },
   "monthLabels": [
@@ -7786,10 +7786,17 @@
       "date": "2026-07-23",
       "week": 81,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Disclosure Day",
+          "year": "2026",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/laminthurein/film/disclosure-day/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/23/"
     },
@@ -11919,9 +11926,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/22/"
+    },
+    {
+      "date": "2026-07-23",
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Disclosure Day",
+          "year": "2026",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/laminthurein/film/disclosure-day/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/23/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-23",
+      "title": "Disclosure Day",
+      "year": "2026",
+      "rating": 2.5,
+      "url": "https://letterboxd.com/laminthurein/film/disclosure-day/"
+    },
     {
       "date": "2026-07-22",
       "title": "The Stranger",
@@ -11984,13 +12012,6 @@
       "year": "2026",
       "rating": 4,
       "url": "https://letterboxd.com/laminthurein/film/the-sheep-detectives/"
-    },
-    {
-      "date": "2026-06-22",
-      "title": "Voicemails for Isabelle",
-      "year": "2026",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/laminthurein/film/voicemails-for-isabelle/"
     }
   ]
 }
