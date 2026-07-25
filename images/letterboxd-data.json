@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-24T02:53:15.963Z",
+  "generatedAt": "2026-07-25T02:50:20.476Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 208,
-    "daysActive": 140,
+    "films": 209,
+    "daysActive": 141,
     "streak": 5
   },
   "monthLabels": [
@@ -7804,10 +7804,17 @@
       "date": "2026-07-24",
       "week": 81,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "No Dogs Allowed",
+          "year": "2024",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/no-dogs-allowed/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/24/"
     },
@@ -11940,9 +11947,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/23/"
+    },
+    {
+      "date": "2026-07-24",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "No Dogs Allowed",
+          "year": "2024",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/no-dogs-allowed/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/24/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-24",
+      "title": "No Dogs Allowed",
+      "year": "2024",
+      "rating": 4,
+      "url": "https://letterboxd.com/laminthurein/film/no-dogs-allowed/"
+    },
     {
       "date": "2026-07-23",
       "title": "Disclosure Day",
@@ -12005,13 +12033,6 @@
       "year": "2026",
       "rating": 4.5,
       "url": "https://letterboxd.com/laminthurein/film/finding-emily/"
-    },
-    {
-      "date": "2026-06-25",
-      "title": "The Sheep Detectives",
-      "year": "2026",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/the-sheep-detectives/"
     }
   ]
 }
