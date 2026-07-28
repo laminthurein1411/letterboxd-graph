@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-27T03:25:54.065Z",
+  "generatedAt": "2026-07-28T02:44:43.721Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 209,
-    "daysActive": 141,
+    "films": 210,
+    "daysActive": 142,
     "streak": 5
   },
   "monthLabels": [
@@ -7844,10 +7844,17 @@
       "date": "2026-07-27",
       "week": 82,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Supergirl",
+          "year": "2026",
+          "rating": 2,
+          "url": "https://letterboxd.com/laminthurein/film/supergirl-2026/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/27/"
     },
@@ -11961,9 +11968,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/24/"
+    },
+    {
+      "date": "2026-07-27",
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Supergirl",
+          "year": "2026",
+          "rating": 2,
+          "url": "https://letterboxd.com/laminthurein/film/supergirl-2026/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/27/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-27",
+      "title": "Supergirl",
+      "year": "2026",
+      "rating": 2,
+      "url": "https://letterboxd.com/laminthurein/film/supergirl-2026/"
+    },
     {
       "date": "2026-07-24",
       "title": "No Dogs Allowed",
@@ -12026,13 +12054,6 @@
       "year": "2025",
       "rating": 3.5,
       "url": "https://letterboxd.com/laminthurein/film/mile-end-kicks/"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "Finding Emily",
-      "year": "2026",
-      "rating": 4.5,
-      "url": "https://letterboxd.com/laminthurein/film/finding-emily/"
     }
   ]
 }
