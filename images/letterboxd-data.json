@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-28T02:44:43.721Z",
+  "generatedAt": "2026-07-29T02:50:35.534Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 210,
-    "daysActive": 142,
+    "films": 212,
+    "daysActive": 143,
     "streak": 5
   },
   "monthLabels": [
@@ -7862,10 +7862,23 @@
       "date": "2026-07-28",
       "week": 82,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "The Odyssey",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/the-odyssey-2026/"
+        },
+        {
+          "title": "Vision Quest",
+          "year": "1985",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/laminthurein/film/vision-quest/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/28/"
     },
@@ -11982,9 +11995,43 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/27/"
+    },
+    {
+      "date": "2026-07-28",
+      "count": 2,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "The Odyssey",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/the-odyssey-2026/"
+        },
+        {
+          "title": "Vision Quest",
+          "year": "1985",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/laminthurein/film/vision-quest/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/28/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-28",
+      "title": "The Odyssey",
+      "year": "2026",
+      "rating": 4,
+      "url": "https://letterboxd.com/laminthurein/film/the-odyssey-2026/"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Vision Quest",
+      "year": "1985",
+      "rating": 2.5,
+      "url": "https://letterboxd.com/laminthurein/film/vision-quest/"
+    },
     {
       "date": "2026-07-27",
       "title": "Supergirl",
@@ -12040,20 +12087,6 @@
       "year": "2025",
       "rating": 4,
       "url": "https://letterboxd.com/laminthurein/film/the-furious/"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "Obsession",
-      "year": "2025",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/obsession-2025/"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "Mile End Kicks",
-      "year": "2025",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/laminthurein/film/mile-end-kicks/"
     }
   ]
 }
