@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-29T02:50:35.534Z",
+  "generatedAt": "2026-07-30T02:36:53.257Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 212,
-    "daysActive": 143,
+    "films": 213,
+    "daysActive": 144,
     "streak": 5
   },
   "monthLabels": [
@@ -7886,10 +7886,17 @@
       "date": "2026-07-29",
       "week": 82,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Leviticus",
+          "year": "2026",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/laminthurein/film/leviticus-2026/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/29/"
     },
@@ -12015,9 +12022,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/28/"
+    },
+    {
+      "date": "2026-07-29",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Leviticus",
+          "year": "2026",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/laminthurein/film/leviticus-2026/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/29/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-29",
+      "title": "Leviticus",
+      "year": "2026",
+      "rating": 4.5,
+      "url": "https://letterboxd.com/laminthurein/film/leviticus-2026/"
+    },
     {
       "date": "2026-07-28",
       "title": "The Odyssey",
@@ -12080,13 +12108,6 @@
       "year": "2003",
       "rating": 4,
       "url": "https://letterboxd.com/laminthurein/film/the-hole-2003/"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "The Furious",
-      "year": "2025",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/the-furious/"
     }
   ]
 }
