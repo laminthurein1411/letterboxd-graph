@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-08-03T02:58:05.024Z",
+  "generatedAt": "2026-08-04T02:45:48.688Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 213,
-    "daysActive": 144,
+    "films": 215,
+    "daysActive": 145,
     "streak": 5
   },
   "monthLabels": [
@@ -7948,10 +7948,23 @@
       "date": "2026-08-03",
       "week": 83,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Leviticus",
+          "year": "2026",
+          "rating": 5,
+          "url": "https://letterboxd.com/laminthurein/film/leviticus-2026/1/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "year": "2026",
+          "rating": 5,
+          "url": "https://letterboxd.com/laminthurein/film/spider-man-brand-new-day/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/08/03/"
     },
@@ -12036,9 +12049,43 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/07/29/"
+    },
+    {
+      "date": "2026-08-03",
+      "count": 2,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Leviticus",
+          "year": "2026",
+          "rating": 5,
+          "url": "https://letterboxd.com/laminthurein/film/leviticus-2026/1/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "year": "2026",
+          "rating": 5,
+          "url": "https://letterboxd.com/laminthurein/film/spider-man-brand-new-day/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/08/03/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-03",
+      "title": "Leviticus",
+      "year": "2026",
+      "rating": 5,
+      "url": "https://letterboxd.com/laminthurein/film/leviticus-2026/1/"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "rating": 5,
+      "url": "https://letterboxd.com/laminthurein/film/spider-man-brand-new-day/"
+    },
     {
       "date": "2026-07-29",
       "title": "Leviticus",
@@ -12094,20 +12141,6 @@
       "year": "2026",
       "rating": 2.5,
       "url": "https://letterboxd.com/laminthurein/film/scary-movie-2026/"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Backrooms",
-      "year": "2026",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/laminthurein/film/backrooms-2026/"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "The Hole",
-      "year": "2003",
-      "rating": 4,
-      "url": "https://letterboxd.com/laminthurein/film/the-hole-2003/"
     }
   ]
 }
