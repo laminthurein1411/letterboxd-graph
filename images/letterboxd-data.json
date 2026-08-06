@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-08-05T02:42:54.380Z",
+  "generatedAt": "2026-08-06T02:46:44.804Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 215,
-    "daysActive": 145,
+    "films": 216,
+    "daysActive": 146,
     "streak": 5
   },
   "monthLabels": [
@@ -7983,10 +7983,17 @@
       "date": "2026-08-05",
       "week": 83,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Evil Dead Burn",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/evil-dead-burn/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/08/05/"
     },
@@ -12069,9 +12076,30 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/08/03/"
+    },
+    {
+      "date": "2026-08-05",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Evil Dead Burn",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/evil-dead-burn/"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/08/05/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-05",
+      "title": "Evil Dead Burn",
+      "year": "2026",
+      "rating": 4,
+      "url": "https://letterboxd.com/laminthurein/film/evil-dead-burn/"
+    },
     {
       "date": "2026-08-03",
       "title": "Leviticus",
@@ -12134,13 +12162,6 @@
       "year": "2025",
       "rating": 3.5,
       "url": "https://letterboxd.com/laminthurein/film/the-stranger-2025-1/"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Scary Movie",
-      "year": "2026",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/laminthurein/film/scary-movie-2026/"
     }
   ]
 }
