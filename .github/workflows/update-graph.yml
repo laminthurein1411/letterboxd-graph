@@ -14,7 +14,7 @@ name: Update Letterboxd Graph + JSON Export
 #   letterboxd-data.json                        the figures, including all-time
 #
 env:
-  LETTERBOXD_USERNAME: "nichtlegacy"  # Your Letterboxd username
+  LETTERBOXD_USERNAME: "laminthurein"  # Your Letterboxd username
   YEARS: "last 2"                      # "last 2" = this year and last, or a list like "2026,2025"
   REVIEW_YEARS: "all"                  # "all" = every year present in the fetched diary
   SCOPE: "all"                         # "all" reads the whole diary — needed for all-time figures
