@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-09-12T03:37:55.491Z",
+  "generatedAt": "2026-09-13T03:44:50.034Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 218,
-    "daysActive": 148,
+    "films": 219,
+    "daysActive": 149,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
@@ -9952,10 +9952,24 @@
       "date": "2026-09-12",
       "week": 88,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "On the Sea",
+          "year": "2025",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+          "filmUid": "film:1383867",
+          "lid": "W44m",
+          "slug": "on-the-sea-2025"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/09/12/"
     },
@@ -15188,9 +15202,44 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/08/13/"
+    },
+    {
+      "date": "2026-09-12",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "On the Sea",
+          "year": "2025",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+          "filmUid": "film:1383867",
+          "lid": "W44m",
+          "slug": "on-the-sea-2025"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/09/12/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-12",
+      "title": "On the Sea",
+      "year": "2025",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+      "filmUid": "film:1383867",
+      "lid": "W44m",
+      "slug": "on-the-sea-2025"
+    },
     {
       "date": "2026-08-13",
       "title": "Minions & Monsters",
@@ -15400,20 +15449,6 @@
       "filmUid": "film:462537",
       "lid": "jpgK",
       "slug": "the-hole-2003"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "The Furious",
-      "year": "2025",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/the-furious/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/the-furious/",
-      "filmUid": "film:1164154",
-      "lid": "MQuM",
-      "slug": "the-furious"
     }
   ],
   "byYear": {
@@ -17794,33 +17829,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 67,
-      "distinctFilms": 66,
+      "entries": 68,
+      "distinctFilms": 67,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-08-13",
-      "spanDays": 225,
-      "daysActive": 51,
+      "lastEntry": "2026-09-12",
+      "spanDays": 255,
+      "daysActive": 52,
       "multiFilmDays": 14,
       "rewatches": 1,
       "liked": 6,
-      "rated": 67,
+      "rated": 68,
       "releaseBreakdown": {
         "sameYear": 21,
-        "older": 46,
+        "older": 47,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 66,
+        "firstWatches": 67,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 65,
+        "reviewed": 66,
         "notReviewed": 2
       },
       "averageRating": 3.4,
-      "perDay": 0.3,
-      "perWeek": 2.1,
-      "perMonth": 9.1,
+      "perDay": 0.27,
+      "perWeek": 1.9,
+      "perMonth": 8.1,
       "streak": {
         "length": 4,
         "startDate": "2026-01-16",
@@ -17832,15 +17867,15 @@
         "count": 3
       },
       "longestGap": {
-        "days": 27,
-        "from": "2026-02-18",
-        "to": "2026-03-18"
+        "days": 29,
+        "from": "2026-08-13",
+        "to": "2026-09-12"
       },
       "perYear": [
         {
           "year": 2026,
-          "films": 67,
-          "days": 51
+          "films": 68,
+          "days": 52
         }
       ],
       "perWeekday": [
@@ -17850,7 +17885,7 @@
         13,
         8,
         12,
-        4
+        5
       ],
       "perMonthOfYear": [
         15,
@@ -17861,7 +17896,7 @@
         12,
         12,
         5,
-        0,
+        1,
         0,
         0,
         0
@@ -17898,6 +17933,10 @@
         {
           "month": "2026-08",
           "count": 5
+        },
+        {
+          "month": "2026-09",
+          "count": 1
         }
       ],
       "weekSeries": [
@@ -18121,7 +18160,7 @@
           "week": 37,
           "start": "2026-09-07",
           "end": "2026-09-13",
-          "count": 0
+          "count": 1
         },
         {
           "week": 38,
@@ -18243,7 +18282,7 @@
         },
         {
           "rating": 3.5,
-          "count": 24
+          "count": 25
         },
         {
           "rating": 4,
@@ -18298,7 +18337,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 47,
+          "count": 48,
           "averageRating": 3.5
         }
       ],
@@ -18359,52 +18398,52 @@
           "slug": "finding-emily"
         },
         {
-          "n": 67,
+          "n": 68,
           "kind": "latest",
-          "date": "2026-08-13",
-          "title": "Minions & Monsters",
-          "year": "2026",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/minions-monsters-2026/",
+          "date": "2026-09-12",
+          "title": "On the Sea",
+          "year": "2025",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/laminthurein/film/minions-monsters-2026/",
-          "filmUid": "film:1196808",
-          "lid": "Odry",
-          "slug": "minions-monsters-2026"
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+          "filmUid": "film:1383867",
+          "lid": "W44m",
+          "slug": "on-the-sea-2025"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2270,
-    "entries": 530,
-    "distinctFilms": 526,
+    "films": 2271,
+    "entries": 531,
+    "distinctFilms": 527,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-08-13",
-    "spanDays": 1413,
-    "daysActive": 321,
+    "lastEntry": "2026-09-12",
+    "spanDays": 1443,
+    "daysActive": 322,
     "multiFilmDays": 112,
     "rewatches": 24,
     "liked": 112,
-    "rated": 530,
+    "rated": 531,
     "releaseBreakdown": {
       "sameYear": 140,
-      "older": 390,
+      "older": 391,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 506,
+      "firstWatches": 507,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 514,
+      "reviewed": 515,
       "notReviewed": 16
     },
     "averageRating": 3.5,
-    "perDay": 0.38,
+    "perDay": 0.37,
     "perWeek": 2.6,
-    "perMonth": 11.4,
+    "perMonth": 11.2,
     "streak": {
       "length": 7,
       "startDate": "2022-10-08",
@@ -18443,8 +18482,8 @@
       },
       {
         "year": 2026,
-        "films": 67,
-        "days": 51
+        "films": 68,
+        "days": 52
       }
     ],
     "perWeekday": [
@@ -18454,7 +18493,7 @@
       72,
       68,
       76,
-      79
+      80
     ],
     "perMonthOfYear": [
       42,
@@ -18465,7 +18504,7 @@
       44,
       51,
       33,
-      23,
+      24,
       59,
       56,
       62
@@ -18658,6 +18697,10 @@
       {
         "month": "2026-08",
         "count": 5
+      },
+      {
+        "month": "2026-09",
+        "count": 1
       }
     ],
     "weekSeries": [],
@@ -18688,7 +18731,7 @@
       },
       {
         "rating": 3.5,
-        "count": 134
+        "count": 135
       },
       {
         "rating": 4,
@@ -18755,7 +18798,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 274,
+        "count": 275,
         "averageRating": 3.5
       }
     ],
@@ -18888,18 +18931,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 530,
+        "n": 531,
         "kind": "latest",
-        "date": "2026-08-13",
-        "title": "Minions & Monsters",
-        "year": "2026",
-        "rating": 4,
-        "url": "https://letterboxd.com/laminthurein/film/minions-monsters-2026/",
+        "date": "2026-09-12",
+        "title": "On the Sea",
+        "year": "2025",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/minions-monsters-2026/",
-        "filmUid": "film:1196808",
-        "lid": "Odry",
-        "slug": "minions-monsters-2026"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+        "filmUid": "film:1383867",
+        "lid": "W44m",
+        "slug": "on-the-sea-2025"
       }
     ]
   }
