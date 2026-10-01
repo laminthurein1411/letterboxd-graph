@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-09-30T04:31:48.366Z",
+  "generatedAt": "2026-10-01T04:42:57.816Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 219,
-    "daysActive": 149,
+    "films": 220,
+    "daysActive": 150,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
@@ -10164,10 +10164,24 @@
       "date": "2026-09-30",
       "week": 91,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Coyote vs. Acme",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+          "filmUid": "film:1089088",
+          "lid": "JHdm",
+          "slug": "coyote-vs-acme"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/09/30/"
     },
@@ -15223,9 +15237,44 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/09/12/"
+    },
+    {
+      "date": "2026-09-30",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Coyote vs. Acme",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+          "filmUid": "film:1089088",
+          "lid": "JHdm",
+          "slug": "coyote-vs-acme"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/09/30/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-30",
+      "title": "Coyote vs. Acme",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+      "filmUid": "film:1089088",
+      "lid": "JHdm",
+      "slug": "coyote-vs-acme"
+    },
     {
       "date": "2026-09-12",
       "title": "On the Sea",
@@ -15435,20 +15484,6 @@
       "filmUid": "film:976419",
       "lid": "EY6W",
       "slug": "backrooms-2026"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "The Hole",
-      "year": "2003",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/the-hole-2003/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/the-hole-2003/",
-      "filmUid": "film:462537",
-      "lid": "jpgK",
-      "slug": "the-hole-2003"
     }
   ],
   "byYear": {
@@ -17829,33 +17864,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 68,
-      "distinctFilms": 67,
+      "entries": 69,
+      "distinctFilms": 68,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-09-12",
-      "spanDays": 255,
-      "daysActive": 52,
+      "lastEntry": "2026-09-30",
+      "spanDays": 273,
+      "daysActive": 53,
       "multiFilmDays": 14,
       "rewatches": 1,
       "liked": 6,
-      "rated": 68,
+      "rated": 69,
       "releaseBreakdown": {
-        "sameYear": 21,
+        "sameYear": 22,
         "older": 47,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 67,
+        "firstWatches": 68,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 66,
+        "reviewed": 67,
         "notReviewed": 2
       },
-      "averageRating": 3.4,
-      "perDay": 0.27,
-      "perWeek": 1.9,
-      "perMonth": 8.1,
+      "averageRating": 3.5,
+      "perDay": 0.25,
+      "perWeek": 1.8,
+      "perMonth": 7.7,
       "streak": {
         "length": 4,
         "startDate": "2026-01-16",
@@ -17874,15 +17909,15 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 68,
-          "days": 52
+          "films": 69,
+          "days": 53
         }
       ],
       "perWeekday": [
         9,
         14,
         7,
-        13,
+        14,
         8,
         12,
         5
@@ -17896,7 +17931,7 @@
         12,
         12,
         5,
-        1,
+        2,
         0,
         0,
         0
@@ -17936,7 +17971,7 @@
         },
         {
           "month": "2026-09",
-          "count": 1
+          "count": 2
         }
       ],
       "weekSeries": [
@@ -18178,7 +18213,7 @@
           "week": 40,
           "start": "2026-09-28",
           "end": "2026-10-04",
-          "count": 0
+          "count": 1
         },
         {
           "week": 41,
@@ -18286,7 +18321,7 @@
         },
         {
           "rating": 4,
-          "count": 18
+          "count": 19
         },
         {
           "rating": 4.5,
@@ -18337,7 +18372,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 48,
+          "count": 49,
           "averageRating": 3.5
         }
       ],
@@ -18398,52 +18433,52 @@
           "slug": "finding-emily"
         },
         {
-          "n": 68,
+          "n": 69,
           "kind": "latest",
-          "date": "2026-09-12",
-          "title": "On the Sea",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+          "date": "2026-09-30",
+          "title": "Coyote vs. Acme",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
-          "filmUid": "film:1383867",
-          "lid": "W44m",
-          "slug": "on-the-sea-2025"
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+          "filmUid": "film:1089088",
+          "lid": "JHdm",
+          "slug": "coyote-vs-acme"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2275,
-    "entries": 531,
-    "distinctFilms": 527,
+    "films": 2276,
+    "entries": 532,
+    "distinctFilms": 528,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-09-12",
-    "spanDays": 1443,
-    "daysActive": 322,
+    "lastEntry": "2026-09-30",
+    "spanDays": 1461,
+    "daysActive": 323,
     "multiFilmDays": 112,
     "rewatches": 24,
     "liked": 112,
-    "rated": 531,
+    "rated": 532,
     "releaseBreakdown": {
-      "sameYear": 140,
+      "sameYear": 141,
       "older": 391,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 507,
+      "firstWatches": 508,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 515,
+      "reviewed": 516,
       "notReviewed": 16
     },
     "averageRating": 3.5,
-    "perDay": 0.37,
-    "perWeek": 2.6,
-    "perMonth": 11.2,
+    "perDay": 0.36,
+    "perWeek": 2.5,
+    "perMonth": 11.1,
     "streak": {
       "length": 7,
       "startDate": "2022-10-08",
@@ -18482,15 +18517,15 @@
       },
       {
         "year": 2026,
-        "films": 68,
-        "days": 52
+        "films": 69,
+        "days": 53
       }
     ],
     "perWeekday": [
       66,
       97,
       72,
-      72,
+      73,
       68,
       76,
       80
@@ -18504,7 +18539,7 @@
       44,
       51,
       33,
-      24,
+      25,
       59,
       56,
       62
@@ -18700,7 +18735,7 @@
       },
       {
         "month": "2026-09",
-        "count": 1
+        "count": 2
       }
     ],
     "weekSeries": [],
@@ -18735,7 +18770,7 @@
       },
       {
         "rating": 4,
-        "count": 182
+        "count": 183
       },
       {
         "rating": 4.5,
@@ -18798,7 +18833,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 275,
+        "count": 276,
         "averageRating": 3.5
       }
     ],
@@ -18931,18 +18966,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 531,
+        "n": 532,
         "kind": "latest",
-        "date": "2026-09-12",
-        "title": "On the Sea",
-        "year": "2025",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
+        "date": "2026-09-30",
+        "title": "Coyote vs. Acme",
+        "year": "2026",
+        "rating": 4,
+        "url": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/on-the-sea-2025/",
-        "filmUid": "film:1383867",
-        "lid": "W44m",
-        "slug": "on-the-sea-2025"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+        "filmUid": "film:1089088",
+        "lid": "JHdm",
+        "slug": "coyote-vs-acme"
       }
     ]
   }
