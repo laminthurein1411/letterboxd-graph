@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-02T04:34:37.417Z",
+  "generatedAt": "2026-10-03T04:17:32.132Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 220,
-    "daysActive": 150,
+    "films": 221,
+    "daysActive": 151,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
@@ -10200,10 +10200,24 @@
       "date": "2026-10-02",
       "week": 91,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Resident Evil",
+          "year": "2002",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/resident-evil/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil/",
+          "filmUid": "film:50958",
+          "lid": "28z2",
+          "slug": "resident-evil"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/10/02/"
     },
@@ -15258,9 +15272,44 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/09/30/"
+    },
+    {
+      "date": "2026-10-02",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Resident Evil",
+          "year": "2002",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/resident-evil/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil/",
+          "filmUid": "film:50958",
+          "lid": "28z2",
+          "slug": "resident-evil"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/10/02/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-02",
+      "title": "Resident Evil",
+      "year": "2002",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/resident-evil/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil/",
+      "filmUid": "film:50958",
+      "lid": "28z2",
+      "slug": "resident-evil"
+    },
     {
       "date": "2026-09-30",
       "title": "Coyote vs. Acme",
@@ -15470,20 +15519,6 @@
       "filmUid": "film:1156910",
       "lid": "MxEo",
       "slug": "scary-movie-2026"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Backrooms",
-      "year": "2026",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/backrooms-2026/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/backrooms-2026/",
-      "filmUid": "film:976419",
-      "lid": "EY6W",
-      "slug": "backrooms-2026"
     }
   ],
   "byYear": {
@@ -17864,27 +17899,27 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 69,
-      "distinctFilms": 68,
+      "entries": 70,
+      "distinctFilms": 69,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-09-30",
-      "spanDays": 273,
-      "daysActive": 53,
+      "lastEntry": "2026-10-02",
+      "spanDays": 275,
+      "daysActive": 54,
       "multiFilmDays": 14,
       "rewatches": 1,
       "liked": 6,
-      "rated": 69,
+      "rated": 70,
       "releaseBreakdown": {
         "sameYear": 22,
-        "older": 47,
+        "older": 48,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 68,
+        "firstWatches": 69,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 67,
+        "reviewed": 68,
         "notReviewed": 2
       },
       "averageRating": 3.5,
@@ -17909,8 +17944,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 69,
-          "days": 53
+          "films": 70,
+          "days": 54
         }
       ],
       "perWeekday": [
@@ -17919,7 +17954,7 @@
         7,
         14,
         8,
-        12,
+        13,
         5
       ],
       "perMonthOfYear": [
@@ -17932,7 +17967,7 @@
         12,
         5,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -17972,6 +18007,10 @@
         {
           "month": "2026-09",
           "count": 2
+        },
+        {
+          "month": "2026-10",
+          "count": 1
         }
       ],
       "weekSeries": [
@@ -18213,7 +18252,7 @@
           "week": 40,
           "start": "2026-09-28",
           "end": "2026-10-04",
-          "count": 1
+          "count": 2
         },
         {
           "week": 41,
@@ -18317,7 +18356,7 @@
         },
         {
           "rating": 3.5,
-          "count": 25
+          "count": 26
         },
         {
           "rating": 4,
@@ -18360,8 +18399,8 @@
         {
           "decade": 2000,
           "label": "2000s",
-          "count": 9,
-          "averageRating": 3
+          "count": 10,
+          "averageRating": 3.5
         },
         {
           "decade": 2010,
@@ -18433,51 +18472,51 @@
           "slug": "finding-emily"
         },
         {
-          "n": 69,
+          "n": 70,
           "kind": "latest",
-          "date": "2026-09-30",
-          "title": "Coyote vs. Acme",
-          "year": "2026",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+          "date": "2026-10-02",
+          "title": "Resident Evil",
+          "year": "2002",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/laminthurein/film/resident-evil/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
-          "filmUid": "film:1089088",
-          "lid": "JHdm",
-          "slug": "coyote-vs-acme"
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil/",
+          "filmUid": "film:50958",
+          "lid": "28z2",
+          "slug": "resident-evil"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2276,
-    "entries": 532,
-    "distinctFilms": 528,
+    "films": 2277,
+    "entries": 533,
+    "distinctFilms": 529,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-09-30",
-    "spanDays": 1461,
-    "daysActive": 323,
+    "lastEntry": "2026-10-02",
+    "spanDays": 1463,
+    "daysActive": 324,
     "multiFilmDays": 112,
     "rewatches": 24,
     "liked": 112,
-    "rated": 532,
+    "rated": 533,
     "releaseBreakdown": {
       "sameYear": 141,
-      "older": 391,
+      "older": 392,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 508,
+      "firstWatches": 509,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 516,
+      "reviewed": 517,
       "notReviewed": 16
     },
     "averageRating": 3.5,
     "perDay": 0.36,
-    "perWeek": 2.5,
+    "perWeek": 2.6,
     "perMonth": 11.1,
     "streak": {
       "length": 7,
@@ -18517,8 +18556,8 @@
       },
       {
         "year": 2026,
-        "films": 69,
-        "days": 53
+        "films": 70,
+        "days": 54
       }
     ],
     "perWeekday": [
@@ -18527,7 +18566,7 @@
       72,
       73,
       68,
-      76,
+      77,
       80
     ],
     "perMonthOfYear": [
@@ -18540,7 +18579,7 @@
       51,
       33,
       25,
-      59,
+      60,
       56,
       62
     ],
@@ -18736,6 +18775,10 @@
       {
         "month": "2026-09",
         "count": 2
+      },
+      {
+        "month": "2026-10",
+        "count": 1
       }
     ],
     "weekSeries": [],
@@ -18766,7 +18809,7 @@
       },
       {
         "rating": 3.5,
-        "count": 135
+        "count": 136
       },
       {
         "rating": 4,
@@ -18821,7 +18864,7 @@
       {
         "decade": 2000,
         "label": "2000s",
-        "count": 56,
+        "count": 57,
         "averageRating": 3.5
       },
       {
@@ -18966,18 +19009,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 532,
+        "n": 533,
         "kind": "latest",
-        "date": "2026-09-30",
-        "title": "Coyote vs. Acme",
-        "year": "2026",
-        "rating": 4,
-        "url": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
+        "date": "2026-10-02",
+        "title": "Resident Evil",
+        "year": "2002",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/laminthurein/film/resident-evil/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/coyote-vs-acme/",
-        "filmUid": "film:1089088",
-        "lid": "JHdm",
-        "slug": "coyote-vs-acme"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil/",
+        "filmUid": "film:50958",
+        "lid": "28z2",
+        "slug": "resident-evil"
       }
     ]
   }
