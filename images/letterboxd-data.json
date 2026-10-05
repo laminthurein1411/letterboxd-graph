@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-04T04:48:41.093Z",
+  "generatedAt": "2026-10-05T04:36:49.942Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 221,
-    "daysActive": 151,
+    "films": 223,
+    "daysActive": 152,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
@@ -10236,10 +10236,37 @@
       "date": "2026-10-04",
       "week": 92,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 4.3,
+      "films": [
+        {
+          "title": "Collateral",
+          "year": "2004",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/collateral/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/collateral/",
+          "filmUid": "film:50995",
+          "lid": "28F0",
+          "slug": "collateral"
+        },
+        {
+          "title": "From Dusk Till Dawn",
+          "year": "1996",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+          "filmUid": "film:51397",
+          "lid": "29HQ",
+          "slug": "from-dusk-till-dawn"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/10/04/"
     },
@@ -15293,9 +15320,71 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/10/02/"
+    },
+    {
+      "date": "2026-10-04",
+      "count": 2,
+      "ratingAvg": 4.3,
+      "films": [
+        {
+          "title": "Collateral",
+          "year": "2004",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/collateral/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/collateral/",
+          "filmUid": "film:50995",
+          "lid": "28F0",
+          "slug": "collateral"
+        },
+        {
+          "title": "From Dusk Till Dawn",
+          "year": "1996",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+          "filmUid": "film:51397",
+          "lid": "29HQ",
+          "slug": "from-dusk-till-dawn"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/10/04/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-04",
+      "title": "Collateral",
+      "year": "2004",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/collateral/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/collateral/",
+      "filmUid": "film:50995",
+      "lid": "28F0",
+      "slug": "collateral"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "From Dusk Till Dawn",
+      "year": "1996",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+      "filmUid": "film:51397",
+      "lid": "29HQ",
+      "slug": "from-dusk-till-dawn"
+    },
     {
       "date": "2026-10-02",
       "title": "Resident Evil",
@@ -15491,34 +15580,6 @@
       "filmUid": "film:1159251",
       "lid": "MDJY",
       "slug": "disclosure-day"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "The Stranger",
-      "year": "2025",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/the-stranger-2025-1/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/the-stranger-2025-1/",
-      "filmUid": "film:1308274",
-      "lid": "STpW",
-      "slug": "the-stranger-2025-1"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Scary Movie",
-      "year": "2026",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/scary-movie-2026/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/scary-movie-2026/",
-      "filmUid": "film:1156910",
-      "lid": "MxEo",
-      "slug": "scary-movie-2026"
     }
   ],
   "byYear": {
@@ -17899,33 +17960,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 70,
-      "distinctFilms": 69,
+      "entries": 72,
+      "distinctFilms": 71,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-02",
-      "spanDays": 275,
-      "daysActive": 54,
-      "multiFilmDays": 14,
+      "lastEntry": "2026-10-04",
+      "spanDays": 277,
+      "daysActive": 55,
+      "multiFilmDays": 15,
       "rewatches": 1,
       "liked": 6,
-      "rated": 70,
+      "rated": 72,
       "releaseBreakdown": {
         "sameYear": 22,
-        "older": 48,
+        "older": 50,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 69,
+        "firstWatches": 71,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 68,
+        "reviewed": 70,
         "notReviewed": 2
       },
       "averageRating": 3.5,
-      "perDay": 0.25,
+      "perDay": 0.26,
       "perWeek": 1.8,
-      "perMonth": 7.7,
+      "perMonth": 7.9,
       "streak": {
         "length": 4,
         "startDate": "2026-01-16",
@@ -17944,12 +18005,12 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 70,
-          "days": 54
+          "films": 72,
+          "days": 55
         }
       ],
       "perWeekday": [
-        9,
+        11,
         14,
         7,
         14,
@@ -17967,7 +18028,7 @@
         12,
         5,
         2,
-        1,
+        3,
         0,
         0
       ],
@@ -18010,7 +18071,7 @@
         },
         {
           "month": "2026-10",
-          "count": 1
+          "count": 3
         }
       ],
       "weekSeries": [
@@ -18252,7 +18313,7 @@
           "week": 40,
           "start": "2026-09-28",
           "end": "2026-10-04",
-          "count": 2
+          "count": 4
         },
         {
           "week": 41,
@@ -18360,11 +18421,11 @@
         },
         {
           "rating": 4,
-          "count": 19
+          "count": 20
         },
         {
           "rating": 4.5,
-          "count": 3
+          "count": 4
         },
         {
           "rating": 5,
@@ -18393,13 +18454,13 @@
         {
           "decade": 1990,
           "label": "1990s",
-          "count": 2,
+          "count": 3,
           "averageRating": 4
         },
         {
           "decade": 2000,
           "label": "2000s",
-          "count": 10,
+          "count": 11,
           "averageRating": 3.5
         },
         {
@@ -18472,50 +18533,50 @@
           "slug": "finding-emily"
         },
         {
-          "n": 70,
+          "n": 72,
           "kind": "latest",
-          "date": "2026-10-02",
-          "title": "Resident Evil",
-          "year": "2002",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/laminthurein/film/resident-evil/",
+          "date": "2026-10-04",
+          "title": "From Dusk Till Dawn",
+          "year": "1996",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil/",
-          "filmUid": "film:50958",
-          "lid": "28z2",
-          "slug": "resident-evil"
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+          "filmUid": "film:51397",
+          "lid": "29HQ",
+          "slug": "from-dusk-till-dawn"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2277,
-    "entries": 533,
-    "distinctFilms": 529,
+    "films": 2279,
+    "entries": 535,
+    "distinctFilms": 531,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-10-02",
-    "spanDays": 1463,
-    "daysActive": 324,
-    "multiFilmDays": 112,
+    "lastEntry": "2026-10-04",
+    "spanDays": 1465,
+    "daysActive": 325,
+    "multiFilmDays": 113,
     "rewatches": 24,
     "liked": 112,
-    "rated": 533,
+    "rated": 535,
     "releaseBreakdown": {
       "sameYear": 141,
-      "older": 392,
+      "older": 394,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 509,
+      "firstWatches": 511,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 517,
+      "reviewed": 519,
       "notReviewed": 16
     },
     "averageRating": 3.5,
-    "perDay": 0.36,
+    "perDay": 0.37,
     "perWeek": 2.6,
     "perMonth": 11.1,
     "streak": {
@@ -18556,12 +18617,12 @@
       },
       {
         "year": 2026,
-        "films": 70,
-        "days": 54
+        "films": 72,
+        "days": 55
       }
     ],
     "perWeekday": [
-      66,
+      68,
       97,
       72,
       73,
@@ -18579,7 +18640,7 @@
       51,
       33,
       25,
-      60,
+      62,
       56,
       62
     ],
@@ -18778,7 +18839,7 @@
       },
       {
         "month": "2026-10",
-        "count": 1
+        "count": 3
       }
     ],
     "weekSeries": [],
@@ -18813,11 +18874,11 @@
       },
       {
         "rating": 4,
-        "count": 183
+        "count": 184
       },
       {
         "rating": 4.5,
-        "count": 37
+        "count": 38
       },
       {
         "rating": 5,
@@ -18858,13 +18919,13 @@
       {
         "decade": 1990,
         "label": "1990s",
-        "count": 30,
+        "count": 31,
         "averageRating": 3.5
       },
       {
         "decade": 2000,
         "label": "2000s",
-        "count": 57,
+        "count": 58,
         "averageRating": 3.5
       },
       {
@@ -19009,18 +19070,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 533,
+        "n": 535,
         "kind": "latest",
-        "date": "2026-10-02",
-        "title": "Resident Evil",
-        "year": "2002",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/laminthurein/film/resident-evil/",
+        "date": "2026-10-04",
+        "title": "From Dusk Till Dawn",
+        "year": "1996",
+        "rating": 4,
+        "url": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil/",
-        "filmUid": "film:50958",
-        "lid": "28z2",
-        "slug": "resident-evil"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+        "filmUid": "film:51397",
+        "lid": "29HQ",
+        "slug": "from-dusk-till-dawn"
       }
     ]
   }
