@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-12T04:52:00.411Z",
+  "generatedAt": "2026-10-13T05:54:42.320Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 223,
-    "daysActive": 152,
+    "films": 224,
+    "daysActive": 153,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
@@ -10351,10 +10351,24 @@
       "date": "2026-10-12",
       "week": 93,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Insidious: Out of the Further",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+          "filmUid": "film:1174157",
+          "lid": "Ngwa",
+          "slug": "insidious-out-of-the-further"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/10/12/"
     },
@@ -15354,9 +15368,44 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/10/04/"
+    },
+    {
+      "date": "2026-10-12",
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Insidious: Out of the Further",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+          "filmUid": "film:1174157",
+          "lid": "Ngwa",
+          "slug": "insidious-out-of-the-further"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/10/12/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-12",
+      "title": "Insidious: Out of the Further",
+      "year": "2026",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+      "filmUid": "film:1174157",
+      "lid": "Ngwa",
+      "slug": "insidious-out-of-the-further"
+    },
     {
       "date": "2026-10-04",
       "title": "Collateral",
@@ -15566,20 +15615,6 @@
       "filmUid": "film:1232836",
       "lid": "PJaw",
       "slug": "no-dogs-allowed"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Disclosure Day",
-      "year": "2026",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/disclosure-day/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/disclosure-day/",
-      "filmUid": "film:1159251",
-      "lid": "MDJY",
-      "slug": "disclosure-day"
     }
   ],
   "byYear": {
@@ -17960,33 +17995,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 72,
-      "distinctFilms": 71,
+      "entries": 73,
+      "distinctFilms": 72,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-04",
-      "spanDays": 277,
-      "daysActive": 55,
+      "lastEntry": "2026-10-12",
+      "spanDays": 285,
+      "daysActive": 56,
       "multiFilmDays": 15,
       "rewatches": 1,
       "liked": 6,
-      "rated": 72,
+      "rated": 73,
       "releaseBreakdown": {
-        "sameYear": 22,
+        "sameYear": 23,
         "older": 50,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 71,
+        "firstWatches": 72,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 70,
+        "reviewed": 71,
         "notReviewed": 2
       },
       "averageRating": 3.5,
       "perDay": 0.26,
       "perWeek": 1.8,
-      "perMonth": 7.9,
+      "perMonth": 7.8,
       "streak": {
         "length": 4,
         "startDate": "2026-01-16",
@@ -18005,13 +18040,13 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 72,
-          "days": 55
+          "films": 73,
+          "days": 56
         }
       ],
       "perWeekday": [
         11,
-        14,
+        15,
         7,
         14,
         8,
@@ -18028,7 +18063,7 @@
         12,
         5,
         2,
-        3,
+        4,
         0,
         0
       ],
@@ -18071,7 +18106,7 @@
         },
         {
           "month": "2026-10",
-          "count": 3
+          "count": 4
         }
       ],
       "weekSeries": [
@@ -18325,7 +18360,7 @@
           "week": 42,
           "start": "2026-10-12",
           "end": "2026-10-18",
-          "count": 0
+          "count": 1
         },
         {
           "week": 43,
@@ -18405,7 +18440,7 @@
         },
         {
           "rating": 2,
-          "count": 4
+          "count": 5
         },
         {
           "rating": 2.5,
@@ -18472,7 +18507,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 49,
+          "count": 50,
           "averageRating": 3.5
         }
       ],
@@ -18533,51 +18568,51 @@
           "slug": "finding-emily"
         },
         {
-          "n": 72,
+          "n": 73,
           "kind": "latest",
-          "date": "2026-10-04",
-          "title": "From Dusk Till Dawn",
-          "year": "1996",
-          "rating": 4,
-          "url": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+          "date": "2026-10-12",
+          "title": "Insidious: Out of the Further",
+          "year": "2026",
+          "rating": 2,
+          "url": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
-          "filmUid": "film:51397",
-          "lid": "29HQ",
-          "slug": "from-dusk-till-dawn"
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+          "filmUid": "film:1174157",
+          "lid": "Ngwa",
+          "slug": "insidious-out-of-the-further"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2279,
-    "entries": 535,
-    "distinctFilms": 531,
+    "films": 2280,
+    "entries": 536,
+    "distinctFilms": 532,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-10-04",
-    "spanDays": 1465,
-    "daysActive": 325,
+    "lastEntry": "2026-10-12",
+    "spanDays": 1473,
+    "daysActive": 326,
     "multiFilmDays": 113,
     "rewatches": 24,
     "liked": 112,
-    "rated": 535,
+    "rated": 536,
     "releaseBreakdown": {
-      "sameYear": 141,
+      "sameYear": 142,
       "older": 394,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 511,
+      "firstWatches": 512,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 519,
+      "reviewed": 520,
       "notReviewed": 16
     },
     "averageRating": 3.5,
-    "perDay": 0.37,
-    "perWeek": 2.6,
+    "perDay": 0.36,
+    "perWeek": 2.5,
     "perMonth": 11.1,
     "streak": {
       "length": 7,
@@ -18617,13 +18652,13 @@
       },
       {
         "year": 2026,
-        "films": 72,
-        "days": 55
+        "films": 73,
+        "days": 56
       }
     ],
     "perWeekday": [
       68,
-      97,
+      98,
       72,
       73,
       68,
@@ -18640,7 +18675,7 @@
       51,
       33,
       25,
-      62,
+      63,
       56,
       62
     ],
@@ -18839,7 +18874,7 @@
       },
       {
         "month": "2026-10",
-        "count": 3
+        "count": 4
       }
     ],
     "weekSeries": [],
@@ -18858,7 +18893,7 @@
       },
       {
         "rating": 2,
-        "count": 25
+        "count": 26
       },
       {
         "rating": 2.5,
@@ -18937,7 +18972,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 276,
+        "count": 277,
         "averageRating": 3.5
       }
     ],
@@ -19070,18 +19105,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 535,
+        "n": 536,
         "kind": "latest",
-        "date": "2026-10-04",
-        "title": "From Dusk Till Dawn",
-        "year": "1996",
-        "rating": 4,
-        "url": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
+        "date": "2026-10-12",
+        "title": "Insidious: Out of the Further",
+        "year": "2026",
+        "rating": 2,
+        "url": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/from-dusk-till-dawn/",
-        "filmUid": "film:51397",
-        "lid": "29HQ",
-        "slug": "from-dusk-till-dawn"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+        "filmUid": "film:1174157",
+        "lid": "Ngwa",
+        "slug": "insidious-out-of-the-further"
       }
     ]
   }

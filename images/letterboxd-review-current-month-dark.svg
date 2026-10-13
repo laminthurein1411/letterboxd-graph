@@ -12,6 +12,9 @@
     <clipPath id="posterClip2">
       <rect x="684" y="277" width="51" height="76" rx="5"/>
     </clipPath>
+    <clipPath id="posterClip3">
+      <rect x="684" y="390" width="51" height="76" rx="5"/>
+    </clipPath>
     <linearGradient id="reviewGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FF8000"/>
       <stop offset="50%" stop-color="#00E054"/>
@@ -81,11 +84,11 @@
   
     <rect x="38" y="266" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(112, 296) scale(1.1667)" fill="none" stroke="#ff8000" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="9" width="20" height="12" rx="2"/><path d="M2 9V5.5A1.5 1.5 0 0 1 3.5 4h17A1.5 1.5 0 0 1 22 5.5V9"/><path d="m7 4-2 5M12 4l-2 5M17 4l-2 5"/></g>
-    <text x="126" y="374" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">3</text>
+    <text x="126" y="374" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">4</text>
     <text x="126" y="402" font-size="14" font-weight="500" fill="#7d8590" text-anchor="middle">Films</text>
     <rect x="228" y="266" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(302, 296) scale(1.1667)" fill="none" stroke="#00e054" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 11h18"/></g>
-    <text x="316" y="374" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">2</text>
+    <text x="316" y="374" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">3</text>
     <text x="316" y="402" font-size="14" font-weight="500" fill="#7d8590" text-anchor="middle">Days Active</text>
     <rect x="418" y="266" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(492, 296) scale(1.1667)" fill="none" stroke="#40bcf4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2c.5 3 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.2.4-2.3 1-3a2.5 2.5 0 0 0 2.5 2.5A2.5 2.5 0 0 0 11 11c0-1.4-.5-2-1-3-1.1-2.1-.2-4 2-6Z"/></g>
@@ -93,7 +96,7 @@
     <text x="506" y="402" font-size="14" font-weight="500" fill="#7d8590" text-anchor="middle">Day Streak</text>
     <rect x="38" y="436" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(112, 466) scale(1.1667)" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 2.6 5.6 6 .8-4.4 4.2 1.1 6.1L12 16.8 6.7 19.7l1.1-6.1L3.4 9.4l6-.8L12 3Z"/></g>
-    <text x="126" y="544" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">4.0</text>
+    <text x="126" y="544" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">3.5</text>
     <text x="126" y="572" font-size="14" font-weight="500" fill="#7d8590" text-anchor="middle">Average Rating</text>
     <rect x="228" y="436" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(302, 466) scale(1.1667)" fill="none" stroke="#ff6b35" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 15.3-6.4L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15.3 6.4L3 16"/><path d="M3 21v-5h5"/></g>
@@ -148,4 +151,17 @@
     </a>
     <text x="755" y="335" font-size="14" font-weight="500" fill="#7d8590">2002  ·  1h 40m  ·  ★ 2.9</text>
     <text x="1136" y="321" font-size="18" fill="#00e054" text-anchor="end">★★★½</text>
+    <rect x="626" y="377" width="536" height="102" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
+    <circle cx="658" cy="428" r="16" fill="#00E054" fill-opacity="0.16" stroke="#00E054" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="658" y="435" font-size="19" font-weight="700" fill="#00E054" text-anchor="middle">4</text>
+    <a href="https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/">
+      <rect x="684" y="390" width="51" height="76" rx="5" fill="#0d1117"/>
+      <image href="data:image/jpeg;base64,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" x="684" y="390" width="51" height="76" clip-path="url(#posterClip3)" preserveAspectRatio="xMidYMid slice"/>
+      <rect x="684" y="390" width="51" height="76" rx="5" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    </a>
+    <a href="https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/">
+      <text x="755" y="424" font-size="20" font-weight="600" fill="#e6edf3">Insidious: Out of the Further</text>
+    </a>
+    <text x="755" y="448" font-size="14" font-weight="500" fill="#7d8590">2026  ·  1h 46m  ·  ★ 2.7</text>
+    <text x="1136" y="434" font-size="18" fill="#00e054" text-anchor="end">★★</text>
 </svg>
