@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-03T05:44:39.776Z",
+  "generatedAt": "2026-11-04T05:17:00.577Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 224,
-    "daysActive": 153,
+    "films": 226,
+    "daysActive": 154,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
@@ -10607,10 +10607,37 @@
       "date": "2026-11-03",
       "week": 96,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "Drive - The Pretenders",
+          "year": "2026",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/drive-the-pretenders/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/drive-the-pretenders/",
+          "filmUid": "film:1464826",
+          "lid": "ZsGg",
+          "slug": "drive-the-pretenders"
+        },
+        {
+          "title": "Resident Evil",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
+          "filmUid": "film:1302717",
+          "lid": "SEXE",
+          "slug": "resident-evil-2026"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/03/"
     },
@@ -15389,9 +15416,71 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/10/12/"
+    },
+    {
+      "date": "2026-11-03",
+      "count": 2,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "Drive - The Pretenders",
+          "year": "2026",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/drive-the-pretenders/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/drive-the-pretenders/",
+          "filmUid": "film:1464826",
+          "lid": "ZsGg",
+          "slug": "drive-the-pretenders"
+        },
+        {
+          "title": "Resident Evil",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
+          "filmUid": "film:1302717",
+          "lid": "SEXE",
+          "slug": "resident-evil-2026"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/03/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-03",
+      "title": "Drive - The Pretenders",
+      "year": "2026",
+      "rating": 2.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/drive-the-pretenders/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/drive-the-pretenders/",
+      "filmUid": "film:1464826",
+      "lid": "ZsGg",
+      "slug": "drive-the-pretenders"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Resident Evil",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
+      "filmUid": "film:1302717",
+      "lid": "SEXE",
+      "slug": "resident-evil-2026"
+    },
     {
       "date": "2026-10-12",
       "title": "Insidious: Out of the Further",
@@ -15587,34 +15676,6 @@
       "filmUid": "film:32301",
       "lid": "1m1Q",
       "slug": "vision-quest"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "Supergirl",
-      "year": "2026",
-      "rating": 2,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/supergirl-2026/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/supergirl-2026/",
-      "filmUid": "film:974286",
-      "lid": "ESyU",
-      "slug": "supergirl-2026"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "No Dogs Allowed",
-      "year": "2024",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/no-dogs-allowed/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/no-dogs-allowed/",
-      "filmUid": "film:1232836",
-      "lid": "PJaw",
-      "slug": "no-dogs-allowed"
     }
   ],
   "byYear": {
@@ -17995,33 +18056,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 73,
-      "distinctFilms": 72,
+      "entries": 75,
+      "distinctFilms": 74,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-12",
-      "spanDays": 285,
-      "daysActive": 56,
-      "multiFilmDays": 15,
+      "lastEntry": "2026-11-03",
+      "spanDays": 307,
+      "daysActive": 57,
+      "multiFilmDays": 16,
       "rewatches": 1,
       "liked": 6,
-      "rated": 73,
+      "rated": 75,
       "releaseBreakdown": {
-        "sameYear": 23,
+        "sameYear": 25,
         "older": 50,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 72,
+        "firstWatches": 74,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 71,
+        "reviewed": 73,
         "notReviewed": 2
       },
       "averageRating": 3.5,
-      "perDay": 0.26,
-      "perWeek": 1.8,
-      "perMonth": 7.8,
+      "perDay": 0.24,
+      "perWeek": 1.7,
+      "perMonth": 7.4,
       "streak": {
         "length": 4,
         "startDate": "2026-01-16",
@@ -18040,14 +18101,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 73,
-          "days": 56
+          "films": 75,
+          "days": 57
         }
       ],
       "perWeekday": [
         11,
         15,
-        7,
+        9,
         14,
         8,
         13,
@@ -18064,7 +18125,7 @@
         5,
         2,
         4,
-        0,
+        2,
         0
       ],
       "monthSeries": [
@@ -18107,6 +18168,10 @@
         {
           "month": "2026-10",
           "count": 4
+        },
+        {
+          "month": "2026-11",
+          "count": 2
         }
       ],
       "weekSeries": [
@@ -18378,7 +18443,7 @@
           "week": 45,
           "start": "2026-11-02",
           "end": "2026-11-08",
-          "count": 0
+          "count": 2
         },
         {
           "week": 46,
@@ -18444,7 +18509,7 @@
         },
         {
           "rating": 2.5,
-          "count": 7
+          "count": 8
         },
         {
           "rating": 3,
@@ -18456,7 +18521,7 @@
         },
         {
           "rating": 4,
-          "count": 20
+          "count": 21
         },
         {
           "rating": 4.5,
@@ -18507,7 +18572,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 50,
+          "count": 52,
           "averageRating": 3.5
         }
       ],
@@ -18568,52 +18633,52 @@
           "slug": "finding-emily"
         },
         {
-          "n": 73,
-          "kind": "latest",
-          "date": "2026-10-12",
-          "title": "Insidious: Out of the Further",
+          "n": 75,
+          "kind": "step",
+          "date": "2026-11-03",
+          "title": "Resident Evil",
           "year": "2026",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+          "rating": 4,
+          "url": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
-          "filmUid": "film:1174157",
-          "lid": "Ngwa",
-          "slug": "insidious-out-of-the-further"
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
+          "filmUid": "film:1302717",
+          "lid": "SEXE",
+          "slug": "resident-evil-2026"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2282,
-    "entries": 536,
-    "distinctFilms": 532,
+    "films": 2285,
+    "entries": 538,
+    "distinctFilms": 534,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-10-12",
-    "spanDays": 1473,
-    "daysActive": 326,
-    "multiFilmDays": 113,
+    "lastEntry": "2026-11-03",
+    "spanDays": 1495,
+    "daysActive": 327,
+    "multiFilmDays": 114,
     "rewatches": 24,
     "liked": 112,
-    "rated": 536,
+    "rated": 538,
     "releaseBreakdown": {
-      "sameYear": 142,
+      "sameYear": 144,
       "older": 394,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 512,
+      "firstWatches": 514,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 520,
+      "reviewed": 522,
       "notReviewed": 16
     },
     "averageRating": 3.5,
     "perDay": 0.36,
     "perWeek": 2.5,
-    "perMonth": 11.1,
+    "perMonth": 11,
     "streak": {
       "length": 7,
       "startDate": "2022-10-08",
@@ -18652,14 +18717,14 @@
       },
       {
         "year": 2026,
-        "films": 73,
-        "days": 56
+        "films": 75,
+        "days": 57
       }
     ],
     "perWeekday": [
       68,
       98,
-      72,
+      74,
       73,
       68,
       77,
@@ -18676,7 +18741,7 @@
       33,
       25,
       63,
-      56,
+      58,
       62
     ],
     "monthSeries": [
@@ -18875,6 +18940,10 @@
       {
         "month": "2026-10",
         "count": 4
+      },
+      {
+        "month": "2026-11",
+        "count": 2
       }
     ],
     "weekSeries": [],
@@ -18897,7 +18966,7 @@
       },
       {
         "rating": 2.5,
-        "count": 47
+        "count": 48
       },
       {
         "rating": 3,
@@ -18909,7 +18978,7 @@
       },
       {
         "rating": 4,
-        "count": 184
+        "count": 185
       },
       {
         "rating": 4.5,
@@ -18972,7 +19041,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 277,
+        "count": 279,
         "averageRating": 3.5
       }
     ],
@@ -19105,18 +19174,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 536,
+        "n": 538,
         "kind": "latest",
-        "date": "2026-10-12",
-        "title": "Insidious: Out of the Further",
+        "date": "2026-11-03",
+        "title": "Resident Evil",
         "year": "2026",
-        "rating": 2,
-        "url": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
+        "rating": 4,
+        "url": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/insidious-out-of-the-further/",
-        "filmUid": "film:1174157",
-        "lid": "Ngwa",
-        "slug": "insidious-out-of-the-further"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
+        "filmUid": "film:1302717",
+        "lid": "SEXE",
+        "slug": "resident-evil-2026"
       }
     ]
   }
