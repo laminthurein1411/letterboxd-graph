@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-12T06:12:28.722Z",
+  "generatedAt": "2026-11-13T05:33:43.924Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 226,
-    "daysActive": 154,
+    "films": 227,
+    "daysActive": 155,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
@@ -10733,10 +10733,24 @@
       "date": "2026-11-12",
       "week": 97,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "Other Mommy",
+          "year": "2026",
+          "rating": 1,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/other-mommy/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/other-mommy/",
+          "filmUid": "film:1284480",
+          "lid": "RTwc",
+          "slug": "other-mommy"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/12/"
     },
@@ -15450,9 +15464,44 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/03/"
+    },
+    {
+      "date": "2026-11-12",
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "Other Mommy",
+          "year": "2026",
+          "rating": 1,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/other-mommy/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/other-mommy/",
+          "filmUid": "film:1284480",
+          "lid": "RTwc",
+          "slug": "other-mommy"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/12/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-12",
+      "title": "Other Mommy",
+      "year": "2026",
+      "rating": 1,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/other-mommy/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/other-mommy/",
+      "filmUid": "film:1284480",
+      "lid": "RTwc",
+      "slug": "other-mommy"
+    },
     {
       "date": "2026-11-03",
       "title": "Drive - The Pretenders",
@@ -15662,20 +15711,6 @@
       "filmUid": "film:1255394",
       "lid": "QFQU",
       "slug": "the-odyssey-2026"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Vision Quest",
-      "year": "1985",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/vision-quest/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/vision-quest/",
-      "filmUid": "film:32301",
-      "lid": "1m1Q",
-      "slug": "vision-quest"
     }
   ],
   "byYear": {
@@ -18056,33 +18091,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 75,
-      "distinctFilms": 74,
+      "entries": 76,
+      "distinctFilms": 75,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-03",
-      "spanDays": 307,
-      "daysActive": 57,
+      "lastEntry": "2026-11-12",
+      "spanDays": 316,
+      "daysActive": 58,
       "multiFilmDays": 16,
       "rewatches": 1,
       "liked": 6,
-      "rated": 75,
+      "rated": 76,
       "releaseBreakdown": {
-        "sameYear": 25,
+        "sameYear": 26,
         "older": 50,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 74,
+        "firstWatches": 75,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 73,
+        "reviewed": 74,
         "notReviewed": 2
       },
-      "averageRating": 3.5,
+      "averageRating": 3.4,
       "perDay": 0.24,
       "perWeek": 1.7,
-      "perMonth": 7.4,
+      "perMonth": 7.3,
       "streak": {
         "length": 4,
         "startDate": "2026-01-16",
@@ -18101,8 +18136,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 75,
-          "days": 57
+          "films": 76,
+          "days": 58
         }
       ],
       "perWeekday": [
@@ -18110,7 +18145,7 @@
         15,
         9,
         14,
-        8,
+        9,
         13,
         5
       ],
@@ -18125,7 +18160,7 @@
         5,
         2,
         4,
-        2,
+        3,
         0
       ],
       "monthSeries": [
@@ -18171,7 +18206,7 @@
         },
         {
           "month": "2026-11",
-          "count": 2
+          "count": 3
         }
       ],
       "weekSeries": [
@@ -18449,7 +18484,7 @@
           "week": 46,
           "start": "2026-11-09",
           "end": "2026-11-15",
-          "count": 0
+          "count": 1
         },
         {
           "week": 47,
@@ -18497,7 +18532,7 @@
       "ratings": [
         {
           "rating": 1,
-          "count": 1
+          "count": 2
         },
         {
           "rating": 1.5,
@@ -18572,7 +18607,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 52,
+          "count": 53,
           "averageRating": 3.5
         }
       ],
@@ -18645,40 +18680,54 @@
           "filmUid": "film:1302717",
           "lid": "SEXE",
           "slug": "resident-evil-2026"
+        },
+        {
+          "n": 76,
+          "kind": "latest",
+          "date": "2026-11-12",
+          "title": "Other Mommy",
+          "year": "2026",
+          "rating": 1,
+          "url": "https://letterboxd.com/laminthurein/film/other-mommy/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/other-mommy/",
+          "filmUid": "film:1284480",
+          "lid": "RTwc",
+          "slug": "other-mommy"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2287,
-    "entries": 538,
-    "distinctFilms": 534,
+    "films": 2289,
+    "entries": 539,
+    "distinctFilms": 535,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-11-03",
-    "spanDays": 1495,
-    "daysActive": 327,
+    "lastEntry": "2026-11-12",
+    "spanDays": 1504,
+    "daysActive": 328,
     "multiFilmDays": 114,
     "rewatches": 24,
     "liked": 112,
-    "rated": 538,
+    "rated": 539,
     "releaseBreakdown": {
-      "sameYear": 144,
+      "sameYear": 145,
       "older": 394,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 514,
+      "firstWatches": 515,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 522,
+      "reviewed": 523,
       "notReviewed": 16
     },
     "averageRating": 3.5,
     "perDay": 0.36,
     "perWeek": 2.5,
-    "perMonth": 11,
+    "perMonth": 10.9,
     "streak": {
       "length": 7,
       "startDate": "2022-10-08",
@@ -18717,8 +18766,8 @@
       },
       {
         "year": 2026,
-        "films": 75,
-        "days": 57
+        "films": 76,
+        "days": 58
       }
     ],
     "perWeekday": [
@@ -18726,7 +18775,7 @@
       98,
       74,
       73,
-      68,
+      69,
       77,
       80
     ],
@@ -18741,7 +18790,7 @@
       33,
       25,
       63,
-      58,
+      59,
       62
     ],
     "monthSeries": [
@@ -18943,7 +18992,7 @@
       },
       {
         "month": "2026-11",
-        "count": 2
+        "count": 3
       }
     ],
     "weekSeries": [],
@@ -18954,7 +19003,7 @@
       },
       {
         "rating": 1,
-        "count": 2
+        "count": 3
       },
       {
         "rating": 1.5,
@@ -19041,7 +19090,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 279,
+        "count": 280,
         "averageRating": 3.5
       }
     ],
@@ -19174,18 +19223,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 538,
+        "n": 539,
         "kind": "latest",
-        "date": "2026-11-03",
-        "title": "Resident Evil",
+        "date": "2026-11-12",
+        "title": "Other Mommy",
         "year": "2026",
-        "rating": 4,
-        "url": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
+        "rating": 1,
+        "url": "https://letterboxd.com/laminthurein/film/other-mommy/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/resident-evil-2026/",
-        "filmUid": "film:1302717",
-        "lid": "SEXE",
-        "slug": "resident-evil-2026"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/other-mommy/",
+        "filmUid": "film:1284480",
+        "lid": "RTwc",
+        "slug": "other-mommy"
       }
     ]
   }

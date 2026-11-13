@@ -9,6 +9,9 @@
     <clipPath id="posterClip1">
       <rect x="684" y="164" width="51" height="76" rx="5"/>
     </clipPath>
+    <clipPath id="posterClip2">
+      <rect x="684" y="277" width="51" height="76" rx="5"/>
+    </clipPath>
     <linearGradient id="reviewGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FF8000"/>
       <stop offset="50%" stop-color="#00E054"/>
@@ -78,11 +81,11 @@
   
     <rect x="38" y="266" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(112, 296) scale(1.1667)" fill="none" stroke="#ff8000" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="9" width="20" height="12" rx="2"/><path d="M2 9V5.5A1.5 1.5 0 0 1 3.5 4h17A1.5 1.5 0 0 1 22 5.5V9"/><path d="m7 4-2 5M12 4l-2 5M17 4l-2 5"/></g>
-    <text x="126" y="374" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">2</text>
+    <text x="126" y="374" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">3</text>
     <text x="126" y="402" font-size="14" font-weight="500" fill="#7d8590" text-anchor="middle">Films</text>
     <rect x="228" y="266" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(302, 296) scale(1.1667)" fill="none" stroke="#00e054" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 11h18"/></g>
-    <text x="316" y="374" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">1</text>
+    <text x="316" y="374" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">2</text>
     <text x="316" y="402" font-size="14" font-weight="500" fill="#7d8590" text-anchor="middle">Days Active</text>
     <rect x="418" y="266" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(492, 296) scale(1.1667)" fill="none" stroke="#40bcf4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2c.5 3 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.2.4-2.3 1-3a2.5 2.5 0 0 0 2.5 2.5A2.5 2.5 0 0 0 11 11c0-1.4-.5-2-1-3-1.1-2.1-.2-4 2-6Z"/></g>
@@ -90,7 +93,7 @@
     <text x="506" y="402" font-size="14" font-weight="500" fill="#7d8590" text-anchor="middle">Day Streak</text>
     <rect x="38" y="436" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(112, 466) scale(1.1667)" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 2.6 5.6 6 .8-4.4 4.2 1.1 6.1L12 16.8 6.7 19.7l1.1-6.1L3.4 9.4l6-.8L12 3Z"/></g>
-    <text x="126" y="544" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">3.3</text>
+    <text x="126" y="544" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">2.5</text>
     <text x="126" y="572" font-size="14" font-weight="500" fill="#7d8590" text-anchor="middle">Average Rating</text>
     <rect x="228" y="436" width="176" height="156" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
     <g transform="translate(302, 466) scale(1.1667)" fill="none" stroke="#ff6b35" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 15.3-6.4L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15.3 6.4L3 16"/><path d="M3 21v-5h5"/></g>
@@ -132,4 +135,17 @@
     </a>
     <text x="755" y="222" font-size="14" font-weight="500" fill="#7d8590">2026  ·  1h 43m  ·  ★ 2.5</text>
     <text x="1136" y="208" font-size="18" fill="#00e054" text-anchor="end">★★½</text>
+    <rect x="626" y="264" width="536" height="102" rx="14" fill="#171c23" stroke="#252c35" stroke-width="1"/>
+    <circle cx="658" cy="315" r="16" fill="#00E054" fill-opacity="0.16" stroke="#00E054" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="658" y="322" font-size="19" font-weight="700" fill="#00E054" text-anchor="middle">3</text>
+    <a href="https://letterboxd.com/laminthurein/film/other-mommy/">
+      <rect x="684" y="277" width="51" height="76" rx="5" fill="#0d1117"/>
+      <image href="data:image/jpeg;base64,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" x="684" y="277" width="51" height="76" clip-path="url(#posterClip2)" preserveAspectRatio="xMidYMid slice"/>
+      <rect x="684" y="277" width="51" height="76" rx="5" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    </a>
+    <a href="https://letterboxd.com/laminthurein/film/other-mommy/">
+      <text x="755" y="311" font-size="20" font-weight="600" fill="#e6edf3">Other Mommy</text>
+    </a>
+    <text x="755" y="335" font-size="14" font-weight="500" fill="#7d8590">2026  ·  1h 33m  ·  ★ 2.2</text>
+    <text x="1136" y="321" font-size="18" fill="#00e054" text-anchor="end">★</text>
 </svg>
