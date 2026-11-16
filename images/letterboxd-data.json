@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-15T05:21:33.361Z",
+  "generatedAt": "2026-11-16T05:19:41.712Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 227,
-    "daysActive": 155,
+    "films": 228,
+    "daysActive": 156,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
@@ -10780,10 +10780,24 @@
       "date": "2026-11-15",
       "week": 98,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Brawlers",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/brawlers/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/brawlers/",
+          "filmUid": "film:1299323",
+          "lid": "Sw8e",
+          "slug": "brawlers"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/15/"
     },
@@ -15485,9 +15499,44 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/12/"
+    },
+    {
+      "date": "2026-11-15",
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Brawlers",
+          "year": "2026",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/brawlers/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/brawlers/",
+          "filmUid": "film:1299323",
+          "lid": "Sw8e",
+          "slug": "brawlers"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/15/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-15",
+      "title": "Brawlers",
+      "year": "2026",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/brawlers/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/brawlers/",
+      "filmUid": "film:1299323",
+      "lid": "Sw8e",
+      "slug": "brawlers"
+    },
     {
       "date": "2026-11-12",
       "title": "Other Mommy",
@@ -15697,20 +15746,6 @@
       "filmUid": "film:1437622",
       "lid": "YjUw",
       "slug": "leviticus-2026"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "The Odyssey",
-      "year": "2026",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/the-odyssey-2026/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/the-odyssey-2026/",
-      "filmUid": "film:1255394",
-      "lid": "QFQU",
-      "slug": "the-odyssey-2026"
     }
   ],
   "byYear": {
@@ -18091,27 +18126,27 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 76,
-      "distinctFilms": 75,
+      "entries": 77,
+      "distinctFilms": 76,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-12",
-      "spanDays": 316,
-      "daysActive": 58,
+      "lastEntry": "2026-11-15",
+      "spanDays": 319,
+      "daysActive": 59,
       "multiFilmDays": 16,
       "rewatches": 1,
       "liked": 6,
-      "rated": 76,
+      "rated": 77,
       "releaseBreakdown": {
-        "sameYear": 26,
+        "sameYear": 27,
         "older": 50,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 75,
+        "firstWatches": 76,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 74,
+        "reviewed": 75,
         "notReviewed": 2
       },
       "averageRating": 3.4,
@@ -18136,12 +18171,12 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 76,
-          "days": 58
+          "films": 77,
+          "days": 59
         }
       ],
       "perWeekday": [
-        11,
+        12,
         15,
         9,
         14,
@@ -18160,7 +18195,7 @@
         5,
         2,
         4,
-        3,
+        4,
         0
       ],
       "monthSeries": [
@@ -18206,7 +18241,7 @@
         },
         {
           "month": "2026-11",
-          "count": 3
+          "count": 4
         }
       ],
       "weekSeries": [
@@ -18484,7 +18519,7 @@
           "week": 46,
           "start": "2026-11-09",
           "end": "2026-11-15",
-          "count": 1
+          "count": 2
         },
         {
           "week": 47,
@@ -18540,7 +18575,7 @@
         },
         {
           "rating": 2,
-          "count": 5
+          "count": 6
         },
         {
           "rating": 2.5,
@@ -18607,7 +18642,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 53,
+          "count": 54,
           "averageRating": 3.5
         }
       ],
@@ -18682,46 +18717,46 @@
           "slug": "resident-evil-2026"
         },
         {
-          "n": 76,
+          "n": 77,
           "kind": "latest",
-          "date": "2026-11-12",
-          "title": "Other Mommy",
+          "date": "2026-11-15",
+          "title": "Brawlers",
           "year": "2026",
-          "rating": 1,
-          "url": "https://letterboxd.com/laminthurein/film/other-mommy/",
+          "rating": 2,
+          "url": "https://letterboxd.com/laminthurein/film/brawlers/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/laminthurein/film/other-mommy/",
-          "filmUid": "film:1284480",
-          "lid": "RTwc",
-          "slug": "other-mommy"
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/brawlers/",
+          "filmUid": "film:1299323",
+          "lid": "Sw8e",
+          "slug": "brawlers"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2289,
-    "entries": 539,
-    "distinctFilms": 535,
+    "films": 2290,
+    "entries": 540,
+    "distinctFilms": 536,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-11-12",
-    "spanDays": 1504,
-    "daysActive": 328,
+    "lastEntry": "2026-11-15",
+    "spanDays": 1507,
+    "daysActive": 329,
     "multiFilmDays": 114,
     "rewatches": 24,
     "liked": 112,
-    "rated": 539,
+    "rated": 540,
     "releaseBreakdown": {
-      "sameYear": 145,
+      "sameYear": 146,
       "older": 394,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 515,
+      "firstWatches": 516,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 523,
+      "reviewed": 524,
       "notReviewed": 16
     },
     "averageRating": 3.5,
@@ -18766,12 +18801,12 @@
       },
       {
         "year": 2026,
-        "films": 76,
-        "days": 58
+        "films": 77,
+        "days": 59
       }
     ],
     "perWeekday": [
-      68,
+      69,
       98,
       74,
       73,
@@ -18790,7 +18825,7 @@
       33,
       25,
       63,
-      59,
+      60,
       62
     ],
     "monthSeries": [
@@ -18992,7 +19027,7 @@
       },
       {
         "month": "2026-11",
-        "count": 3
+        "count": 4
       }
     ],
     "weekSeries": [],
@@ -19011,7 +19046,7 @@
       },
       {
         "rating": 2,
-        "count": 26
+        "count": 27
       },
       {
         "rating": 2.5,
@@ -19090,7 +19125,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 280,
+        "count": 281,
         "averageRating": 3.5
       }
     ],
@@ -19223,18 +19258,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 539,
+        "n": 540,
         "kind": "latest",
-        "date": "2026-11-12",
-        "title": "Other Mommy",
+        "date": "2026-11-15",
+        "title": "Brawlers",
         "year": "2026",
-        "rating": 1,
-        "url": "https://letterboxd.com/laminthurein/film/other-mommy/",
+        "rating": 2,
+        "url": "https://letterboxd.com/laminthurein/film/brawlers/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/other-mommy/",
-        "filmUid": "film:1284480",
-        "lid": "RTwc",
-        "slug": "other-mommy"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/brawlers/",
+        "filmUid": "film:1299323",
+        "lid": "Sw8e",
+        "slug": "brawlers"
       }
     ]
   }
