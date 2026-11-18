@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-17T06:59:29.261Z",
+  "generatedAt": "2026-11-18T06:22:59.402Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 228,
-    "daysActive": 156,
+    "films": 230,
+    "daysActive": 157,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
-    "liked": 14
+    "liked": 15
   },
   "monthLabels": [
     {
@@ -10816,10 +10816,37 @@
       "date": "2026-11-17",
       "week": 98,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "Coward",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/laminthurein/film/coward-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/coward-2026/",
+          "filmUid": "film:1315755",
+          "lid": "TcSy",
+          "slug": "coward-2026"
+        },
+        {
+          "title": "Vampire Carnival",
+          "year": "2026",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+          "filmUid": "film:1501326",
+          "lid": "10ZDm",
+          "slug": "vampire-carnival"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/17/"
     },
@@ -15520,9 +15547,71 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/15/"
+    },
+    {
+      "date": "2026-11-17",
+      "count": 2,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "Coward",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/laminthurein/film/coward-2026/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/coward-2026/",
+          "filmUid": "film:1315755",
+          "lid": "TcSy",
+          "slug": "coward-2026"
+        },
+        {
+          "title": "Vampire Carnival",
+          "year": "2026",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+          "filmUid": "film:1501326",
+          "lid": "10ZDm",
+          "slug": "vampire-carnival"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/17/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-17",
+      "title": "Coward",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/laminthurein/film/coward-2026/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/coward-2026/",
+      "filmUid": "film:1315755",
+      "lid": "TcSy",
+      "slug": "coward-2026"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Vampire Carnival",
+      "year": "2026",
+      "rating": 2.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+      "filmUid": "film:1501326",
+      "lid": "10ZDm",
+      "slug": "vampire-carnival"
+    },
     {
       "date": "2026-11-15",
       "title": "Brawlers",
@@ -15715,34 +15804,6 @@
       "url": "https://letterboxd.com/laminthurein/film/leviticus-2026/1/",
       "reviewed": true,
       "reviewUrl": "https://letterboxd.com/laminthurein/film/leviticus-2026/1/",
-      "filmUid": "film:1437622",
-      "lid": "YjUw",
-      "slug": "leviticus-2026"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "rating": 5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/spider-man-brand-new-day/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/spider-man-brand-new-day/",
-      "filmUid": "film:872871",
-      "lid": "ACJE",
-      "slug": "spider-man-brand-new-day"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Leviticus",
-      "year": "2026",
-      "rating": 4.5,
-      "rewatch": false,
-      "liked": true,
-      "url": "https://letterboxd.com/laminthurein/film/leviticus-2026/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/leviticus-2026/",
       "filmUid": "film:1437622",
       "lid": "YjUw",
       "slug": "leviticus-2026"
@@ -18126,33 +18187,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 77,
-      "distinctFilms": 76,
+      "entries": 79,
+      "distinctFilms": 78,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-15",
-      "spanDays": 319,
-      "daysActive": 59,
-      "multiFilmDays": 16,
+      "lastEntry": "2026-11-17",
+      "spanDays": 321,
+      "daysActive": 60,
+      "multiFilmDays": 17,
       "rewatches": 1,
-      "liked": 6,
-      "rated": 77,
+      "liked": 7,
+      "rated": 79,
       "releaseBreakdown": {
-        "sameYear": 27,
+        "sameYear": 29,
         "older": 50,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 76,
+        "firstWatches": 78,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 75,
+        "reviewed": 77,
         "notReviewed": 2
       },
       "averageRating": 3.4,
-      "perDay": 0.24,
+      "perDay": 0.25,
       "perWeek": 1.7,
-      "perMonth": 7.3,
+      "perMonth": 7.5,
       "streak": {
         "length": 4,
         "startDate": "2026-01-16",
@@ -18171,14 +18232,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 77,
-          "days": 59
+          "films": 79,
+          "days": 60
         }
       ],
       "perWeekday": [
         12,
         15,
-        9,
+        11,
         14,
         9,
         13,
@@ -18195,7 +18256,7 @@
         5,
         2,
         4,
-        4,
+        6,
         0
       ],
       "monthSeries": [
@@ -18241,7 +18302,7 @@
         },
         {
           "month": "2026-11",
-          "count": 4
+          "count": 6
         }
       ],
       "weekSeries": [
@@ -18525,7 +18586,7 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 0
+          "count": 2
         },
         {
           "week": 48,
@@ -18579,7 +18640,7 @@
         },
         {
           "rating": 2.5,
-          "count": 8
+          "count": 9
         },
         {
           "rating": 3,
@@ -18591,7 +18652,7 @@
         },
         {
           "rating": 4,
-          "count": 21
+          "count": 22
         },
         {
           "rating": 4.5,
@@ -18642,7 +18703,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 54,
+          "count": 56,
           "averageRating": 3.5
         }
       ],
@@ -18717,46 +18778,46 @@
           "slug": "resident-evil-2026"
         },
         {
-          "n": 77,
+          "n": 79,
           "kind": "latest",
-          "date": "2026-11-15",
-          "title": "Brawlers",
+          "date": "2026-11-17",
+          "title": "Vampire Carnival",
           "year": "2026",
-          "rating": 2,
-          "url": "https://letterboxd.com/laminthurein/film/brawlers/",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/laminthurein/film/brawlers/",
-          "filmUid": "film:1299323",
-          "lid": "Sw8e",
-          "slug": "brawlers"
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+          "filmUid": "film:1501326",
+          "lid": "10ZDm",
+          "slug": "vampire-carnival"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2290,
-    "entries": 540,
-    "distinctFilms": 536,
+    "films": 2292,
+    "entries": 542,
+    "distinctFilms": 538,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-11-15",
-    "spanDays": 1507,
-    "daysActive": 329,
-    "multiFilmDays": 114,
+    "lastEntry": "2026-11-17",
+    "spanDays": 1509,
+    "daysActive": 330,
+    "multiFilmDays": 115,
     "rewatches": 24,
-    "liked": 112,
-    "rated": 540,
+    "liked": 113,
+    "rated": 542,
     "releaseBreakdown": {
-      "sameYear": 146,
+      "sameYear": 148,
       "older": 394,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 516,
+      "firstWatches": 518,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 524,
+      "reviewed": 526,
       "notReviewed": 16
     },
     "averageRating": 3.5,
@@ -18801,14 +18862,14 @@
       },
       {
         "year": 2026,
-        "films": 77,
-        "days": 59
+        "films": 79,
+        "days": 60
       }
     ],
     "perWeekday": [
       69,
       98,
-      74,
+      76,
       73,
       69,
       77,
@@ -18825,7 +18886,7 @@
       33,
       25,
       63,
-      60,
+      62,
       62
     ],
     "monthSeries": [
@@ -19027,7 +19088,7 @@
       },
       {
         "month": "2026-11",
-        "count": 4
+        "count": 6
       }
     ],
     "weekSeries": [],
@@ -19050,7 +19111,7 @@
       },
       {
         "rating": 2.5,
-        "count": 48
+        "count": 49
       },
       {
         "rating": 3,
@@ -19062,7 +19123,7 @@
       },
       {
         "rating": 4,
-        "count": 185
+        "count": 186
       },
       {
         "rating": 4.5,
@@ -19125,7 +19186,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 281,
+        "count": 283,
         "averageRating": 3.5
       }
     ],
@@ -19258,18 +19319,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 540,
+        "n": 542,
         "kind": "latest",
-        "date": "2026-11-15",
-        "title": "Brawlers",
+        "date": "2026-11-17",
+        "title": "Vampire Carnival",
         "year": "2026",
-        "rating": 2,
-        "url": "https://letterboxd.com/laminthurein/film/brawlers/",
+        "rating": 2.5,
+        "url": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/brawlers/",
-        "filmUid": "film:1299323",
-        "lid": "Sw8e",
-        "slug": "brawlers"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+        "filmUid": "film:1501326",
+        "lid": "10ZDm",
+        "slug": "vampire-carnival"
       }
     ]
   }
