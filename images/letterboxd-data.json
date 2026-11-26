@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-25T07:29:42.565Z",
+  "generatedAt": "2026-11-26T07:17:45.552Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 230,
-    "daysActive": 157,
+    "films": 232,
+    "daysActive": 159,
     "streak": 5,
     "streakFilms": 14,
     "rewatches": 6,
@@ -10931,10 +10931,24 @@
       "date": "2026-11-25",
       "week": 99,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Wicker",
+          "year": "2026",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/wicker/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/wicker/",
+          "filmUid": "film:1080892",
+          "lid": "JlTq",
+          "slug": "wicker"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/25/"
     },
@@ -10942,10 +10956,24 @@
       "date": "2026-11-26",
       "week": 99,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "You Can See Everything",
+          "year": "2026",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
+          "filmUid": "film:1629443",
+          "lid": "16mVo",
+          "slug": "you-can-see-everything"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/26/"
     },
@@ -15581,9 +15609,79 @@
         }
       ],
       "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/17/"
+    },
+    {
+      "date": "2026-11-25",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Wicker",
+          "year": "2026",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/wicker/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/wicker/",
+          "filmUid": "film:1080892",
+          "lid": "JlTq",
+          "slug": "wicker"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/25/"
+    },
+    {
+      "date": "2026-11-26",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "You Can See Everything",
+          "year": "2026",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
+          "filmUid": "film:1629443",
+          "lid": "16mVo",
+          "slug": "you-can-see-everything"
+        }
+      ],
+      "url": "https://letterboxd.com/laminthurein/diary/films/for/2026/11/26/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-26",
+      "title": "You Can See Everything",
+      "year": "2026",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
+      "filmUid": "film:1629443",
+      "lid": "16mVo",
+      "slug": "you-can-see-everything"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Wicker",
+      "year": "2026",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/laminthurein/film/wicker/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/laminthurein/film/wicker/",
+      "filmUid": "film:1080892",
+      "lid": "JlTq",
+      "slug": "wicker"
+    },
     {
       "date": "2026-11-17",
       "title": "Coward",
@@ -15779,34 +15877,6 @@
       "filmUid": "film:1342318",
       "lid": "UjYU",
       "slug": "our-hero-balthazar"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "Evil Dead Burn",
-      "year": "2026",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/laminthurein/film/evil-dead-burn/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/evil-dead-burn/",
-      "filmUid": "film:1097022",
-      "lid": "K1R2",
-      "slug": "evil-dead-burn"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Leviticus",
-      "year": "2026",
-      "rating": 5,
-      "rewatch": true,
-      "liked": true,
-      "url": "https://letterboxd.com/laminthurein/film/leviticus-2026/1/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/laminthurein/film/leviticus-2026/1/",
-      "filmUid": "film:1437622",
-      "lid": "YjUw",
-      "slug": "leviticus-2026"
     }
   ],
   "byYear": {
@@ -18187,27 +18257,27 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 79,
-      "distinctFilms": 78,
+      "entries": 81,
+      "distinctFilms": 80,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-17",
-      "spanDays": 321,
-      "daysActive": 60,
+      "lastEntry": "2026-11-26",
+      "spanDays": 330,
+      "daysActive": 62,
       "multiFilmDays": 17,
       "rewatches": 1,
       "liked": 7,
-      "rated": 79,
+      "rated": 81,
       "releaseBreakdown": {
-        "sameYear": 29,
+        "sameYear": 31,
         "older": 50,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 78,
+        "firstWatches": 80,
         "rewatches": 1
       },
       "reviewBreakdown": {
-        "reviewed": 77,
+        "reviewed": 79,
         "notReviewed": 2
       },
       "averageRating": 3.4,
@@ -18232,16 +18302,16 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 79,
-          "days": 60
+          "films": 81,
+          "days": 62
         }
       ],
       "perWeekday": [
         12,
         15,
         11,
-        14,
-        9,
+        15,
+        10,
         13,
         5
       ],
@@ -18256,7 +18326,7 @@
         5,
         2,
         4,
-        6,
+        8,
         0
       ],
       "monthSeries": [
@@ -18302,7 +18372,7 @@
         },
         {
           "month": "2026-11",
-          "count": 6
+          "count": 8
         }
       ],
       "weekSeries": [
@@ -18592,7 +18662,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 0
+          "count": 2
         },
         {
           "week": 49,
@@ -18648,7 +18718,7 @@
         },
         {
           "rating": 3.5,
-          "count": 26
+          "count": 27
         },
         {
           "rating": 4,
@@ -18656,7 +18726,7 @@
         },
         {
           "rating": 4.5,
-          "count": 4
+          "count": 5
         },
         {
           "rating": 5,
@@ -18703,7 +18773,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 56,
+          "count": 58,
           "averageRating": 3.5
         }
       ],
@@ -18778,46 +18848,46 @@
           "slug": "resident-evil-2026"
         },
         {
-          "n": 79,
+          "n": 81,
           "kind": "latest",
-          "date": "2026-11-17",
-          "title": "Vampire Carnival",
+          "date": "2026-11-26",
+          "title": "You Can See Everything",
           "year": "2026",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
           "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
-          "filmUid": "film:1501326",
-          "lid": "10ZDm",
-          "slug": "vampire-carnival"
+          "reviewUrl": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
+          "filmUid": "film:1629443",
+          "lid": "16mVo",
+          "slug": "you-can-see-everything"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 2292,
-    "entries": 542,
-    "distinctFilms": 538,
+    "films": 2295,
+    "entries": 544,
+    "distinctFilms": 540,
     "firstEntry": "2022-10-01",
-    "lastEntry": "2026-11-17",
-    "spanDays": 1509,
-    "daysActive": 330,
+    "lastEntry": "2026-11-26",
+    "spanDays": 1518,
+    "daysActive": 332,
     "multiFilmDays": 115,
     "rewatches": 24,
     "liked": 113,
-    "rated": 542,
+    "rated": 544,
     "releaseBreakdown": {
-      "sameYear": 148,
+      "sameYear": 150,
       "older": 394,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 518,
+      "firstWatches": 520,
       "rewatches": 24
     },
     "reviewBreakdown": {
-      "reviewed": 526,
+      "reviewed": 528,
       "notReviewed": 16
     },
     "averageRating": 3.5,
@@ -18862,16 +18932,16 @@
       },
       {
         "year": 2026,
-        "films": 79,
-        "days": 60
+        "films": 81,
+        "days": 62
       }
     ],
     "perWeekday": [
       69,
       98,
       76,
-      73,
-      69,
+      74,
+      70,
       77,
       80
     ],
@@ -18886,7 +18956,7 @@
       33,
       25,
       63,
-      62,
+      64,
       62
     ],
     "monthSeries": [
@@ -19088,7 +19158,7 @@
       },
       {
         "month": "2026-11",
-        "count": 6
+        "count": 8
       }
     ],
     "weekSeries": [],
@@ -19119,7 +19189,7 @@
       },
       {
         "rating": 3.5,
-        "count": 136
+        "count": 137
       },
       {
         "rating": 4,
@@ -19127,7 +19197,7 @@
       },
       {
         "rating": 4.5,
-        "count": 38
+        "count": 39
       },
       {
         "rating": 5,
@@ -19186,7 +19256,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 283,
+        "count": 285,
         "averageRating": 3.5
       }
     ],
@@ -19319,18 +19389,18 @@
         "slug": "le-beau-mec"
       },
       {
-        "n": 542,
+        "n": 544,
         "kind": "latest",
-        "date": "2026-11-17",
-        "title": "Vampire Carnival",
+        "date": "2026-11-26",
+        "title": "You Can See Everything",
         "year": "2026",
-        "rating": 2.5,
-        "url": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
+        "rating": 4.5,
+        "url": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
         "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/laminthurein/film/vampire-carnival/",
-        "filmUid": "film:1501326",
-        "lid": "10ZDm",
-        "slug": "vampire-carnival"
+        "reviewUrl": "https://letterboxd.com/laminthurein/film/you-can-see-everything/",
+        "filmUid": "film:1629443",
+        "lid": "16mVo",
+        "slug": "you-can-see-everything"
       }
     ]
   }
